@@ -2,7 +2,7 @@ library(shiny)
 library(googleVis)
 
 ## establish connection to data file/database
-dat <- as.data.frame(read.csv('test.csv', header=TRUE, sep=','))
+dat <- as.data.frame(read.table('types_yearToOrderToAuthor.csv', header=TRUE, sep=','))
 
 # Define server logic required to draw a Sankey Diagram
 shinyServer(function(input, output) {
