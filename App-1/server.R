@@ -6,8 +6,10 @@ dat <- as.data.frame(read.table('types_yearToOrderToAuthor.csv', header=TRUE, se
 dat[is.na(dat)] <- 0;
 
 ## read authority file for authors and periods of active publication
-authority <- as.data.frame(read.table('authYearAuthority.csv', header=TRUE, sep=',', strip.white = TRUE))
-dat[is.na(dat)] <- 0;
+authority <- as.data.frame.matrix(read.table('authYearAuthority.csv', header=TRUE, sep=',', strip.white = TRUE))
+
+dat$destination.html.tooltip <- ifelse(dat$destination %in% authority$author, 
+                                       paste("Active from", authority$initialYear, "to", authority$finalYear, " "), "")
 
 # Define server logic required to draw a Sankey Diagram
 shinyServer(function(input, output) {
@@ -19,16 +21,16 @@ shinyServer(function(input, output) {
   ## query/filter data file based on input parameters
   selectedData <- reactive({Sankeylinks <- rbind(dat.sub <- dat[dat$destination %in% c(input$taxon) & substring(dat$source, 1, 4) >= input$range[1]
                                            & substring(dat$source, 1, 4) <= input$range[2], c(1:3)], 
-                                          dat.sub2 <- dat[dat$source %in% c(input$taxon) & dat$destination %in% authority$author
-                                                         & as.character(authority$initialYear) >= input$range[1] 
-                                                         & as.character(authority$finalYear) <= input$range[2], c(1:3)])}) 
+                                          dat.sub2 <- dat[dat$source %in% c(input$taxon) & (dat$destination %in% authority$author
+                                                         & authority$initialYear >= input$range[1] 
+                                                         & authority$finalYear <= input$range[2]), c(1:3)])}) 
                                     
   ## CREATE SECONDARY SUBSET FOR AUTHORSHIP 
                                   
   ## create and output googleVis Sankey Flow Diagram to user
   ## output$plot <-  renderGvis({gvisSankey(dat, from="source", to="destination", weight="weight")})
   output$view <- renderGvis({gvisSankey(selectedData(), options=list(height=1000, width=1000,
-                                                                     sankey="{iterations: 0, node: {nodePadding: 5, interactivity: true}, 
+                                                                     sankey="{iterations: 0, tooltip: {isHTML: true}, node: {nodePadding: 5, interactivity: true}, 
                                                                      link: {colorMode:'gradient', color: {stroke: 'grey',
                                                                      strokeWidth: .1}}}"))})
 })
