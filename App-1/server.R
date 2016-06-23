@@ -2,7 +2,11 @@ library(shiny)
 library(googleVis)
 
 ## establish connection to data file/database
-dat <- as.data.frame(read.table('types_yearToOrderToAuthor.csv', header=TRUE, sep=','))
+dat <- as.data.frame(read.table('types_yearToOrderToAuthor.csv', header=TRUE, sep=',', strip.white = TRUE))
+dat[is.na(dat)] <- 0;
+
+## read authority file for authors and periods of active publication
+authority <- as.data.frame(read.table('authYearAuthority.csv', header=TRUE, sep=',', strip.white = TRUE))
 dat[is.na(dat)] <- 0;
 
 # Define server logic required to draw a Sankey Diagram
@@ -15,7 +19,9 @@ shinyServer(function(input, output) {
   ## query/filter data file based on input parameters
   selectedData <- reactive({Sankeylinks <- rbind(dat.sub <- dat[dat$destination %in% c(input$taxon) & substring(dat$source, 1, 4) >= input$range[1]
                                            & substring(dat$source, 1, 4) <= input$range[2], c(1:3)], 
-                                          dat.sub2 <- dat[dat$source %in% c(input$taxon), c(1:3)])}) 
+                                          dat.sub2 <- dat[dat$source %in% c(input$taxon) & dat$destination %in% authority$author
+                                                         & as.character(authority$initialYear) >= input$range[1] 
+                                                         & as.character(authority$finalYear) <= input$range[2], c(1:3)])}) 
                                     
   ## CREATE SECONDARY SUBSET FOR AUTHORSHIP 
                                   
