@@ -1,7 +1,7 @@
 library(shiny)
 library(googleVis)
 
-shinyUI(fluidPage(
+shinyUI(fluidPage(theme = "bootstrap.css", 
   titlePanel("ANSP Entomology Type Sankey Visualization Test"),
   sidebarLayout(
     sidebarPanel(
@@ -22,12 +22,12 @@ shinyUI(fluidPage(
                                         "Opiliones" = 'Opiliones', "Pseudoscorpiones" = 'Pseudoscorpiones', "Acari" = 'Acari',
                                         "Ploydesmida" = 'Polydesmida', "Mantodea" = 'Mantodea', "Blattodea" = 'Blattodea', 
                                         "Ephemeroptera" = "Ephemeroptera", "Diplura" = 'Diplura'),
-                         selected = c("Orthoptera", "Lepidoptera", "Diptera"), inline=TRUE),
+                         selected = c("Orthoptera"), inline=TRUE),
       hr(),
       fluidRow(helpText("Viewing the order(s): "),
                verbatimTextOutput("desc"), helpText( "described during: "),
                verbatimTextOutput("range"), helpText("showing total contributions to taxon by author."))
       ),
-      mainPanel(htmlOutput('view'), hr())
+      mainPanel(htmlOutput('view'))
     )
 ))
