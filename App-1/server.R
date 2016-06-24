@@ -26,14 +26,11 @@ shinyServer(function(input, output) {
                                                                                                     | (dat$destination.finalYear %in% input$range[1]:input$range[2]))
                                                             , c(1:3)])
                                           )}) 
-  
-                                                          ## & as.character(dat$initialYear) >= as.character(input$range[1])
-                                                         ## & as.character(dat$finalYear) <= as.character(input$range[2]), c(1:3)])}) 
                                   
   ## create and output googleVis Sankey Flow Diagram to user
   ## output$plot <-  renderGvis({gvisSankey(dat, from="source", to="destination", weight="weight")})
   output$view <- renderGvis({gvisSankey(selectedData(), options=list(height=1000, width=1000,
                                                                      sankey="{iterations: 0, tooltip: {isHTML: true}, node: {nodePadding: 5, interactivity: true, labelPadding: 12, label: {color: 'white'}}, 
-                                                                     link: {colorMode:'gradient', color: {stroke: 'grey',
+                                                                     link: {colorMode:'source', color: {stroke: 'grey',
                                                                      strokeWidth: .1}, colors: ['#CD0074','#FF5F00','#00A67C','9Fee00']}}"))})
 })
