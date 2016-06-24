@@ -2,14 +2,15 @@ library(shiny)
 library(googleVis)
 
 ## establish connection to data file/database
-dat <- as.data.frame(read.table('types_yearToOrderToAuthor.csv', header=TRUE, sep=',', strip.white = TRUE))
+dat <- as.data.frame(read.table('types_yearToOrderToAuthor.csv', header=TRUE, sep=',', strip.white = TRUE, stringsAsFactors = FALSE))
 dat[is.na(dat)] <- 0;
 
 ## read authority file for authors and periods of active publication
-authority <- as.data.frame.matrix(read.table('authYearAuthority.csv', header=TRUE, sep=',', strip.white = TRUE))
+authority <- as.data.frame.matrix(read.table('authYearAuthority.csv', header=TRUE, sep=',', strip.white = TRUE, stringsAsFactors = FALSE))
 
-dat$destination.html.tooltip <- ifelse(dat$destination %in% authority$author, 
-                                       paste("Active from", authority$initialYear, "to", authority$finalYear, " "), "")
+## append year values based on authority for further filtering
+dat$destination.initialYear <- authority[match(dat$destination, authority$author), 2]
+dat$destination.finalYear <- authority[match(dat$destination, authority$author), 3]
 
 # Define server logic required to draw a Sankey Diagram
 shinyServer(function(input, output) {
@@ -21,11 +22,13 @@ shinyServer(function(input, output) {
   ## query/filter data file based on input parameters
   selectedData <- reactive({Sankeylinks <- rbind(dat.sub <- dat[dat$destination %in% c(input$taxon) & substring(dat$source, 1, 4) >= input$range[1]
                                            & substring(dat$source, 1, 4) <= input$range[2], c(1:3)], 
-                                          dat.sub2 <- dat[dat$source %in% c(input$taxon) & (dat$destination %in% authority$author
-                                                         & authority$initialYear >= input$range[1] 
-                                                         & authority$finalYear <= input$range[2]), c(1:3)])}) 
-                                    
-  ## CREATE SECONDARY SUBSET FOR AUTHORSHIP 
+                                          dat.sub2 <- na.omit(dat[dat$source %in% c(input$taxon) & ((dat$destination.initialYear %in% input$range[1]:input$range[2])
+                                                                                                    | (dat$destination.finalYear %in% input$range[1]:input$range[2]))
+                                                            , c(1:3)])
+                                          )}) 
+  
+                                                          ## & as.character(dat$initialYear) >= as.character(input$range[1])
+                                                         ## & as.character(dat$finalYear) <= as.character(input$range[2]), c(1:3)])}) 
                                   
   ## create and output googleVis Sankey Flow Diagram to user
   ## output$plot <-  renderGvis({gvisSankey(dat, from="source", to="destination", weight="weight")})
