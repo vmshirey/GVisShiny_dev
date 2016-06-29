@@ -1,12 +1,14 @@
 library(shiny)
 library(googleVis)
+library(gtools)
 
 ## establish connection to data file/database
 dat <- as.data.frame(read.table('types_yearToOrderToAuthor.csv', header=TRUE, sep=',', strip.white = TRUE, stringsAsFactors = FALSE))
 dat[is.na(dat)] <- 0;
 
-## read authority file for authors and periods of active publication
+## read authority files for authors and periods of active publication plus weights
 authority <- as.data.frame.matrix(read.table('authYearAuthority.csv', header=TRUE, sep=',', strip.white = TRUE, stringsAsFactors = FALSE))
+authweight <- as.data.frame.matrix(read.table('authYearWeights.csv', header=TRUE, sep=',', strip.white = TRUE, stringsAsFactors = FALSE))
 
 ## append year values based on authority for further filtering
 dat$destination.initialYear <- authority[match(dat$destination, authority$author), 2]
@@ -20,11 +22,12 @@ shinyServer(function(input, output) {
   output$range <- renderText(input$range)
   
   ## query/filter data file based on input parameters
-  selectedData <- reactive({Sankeylinks <- rbind(dat.sub <- dat[dat$destination %in% c(input$taxon) & substring(dat$source, 1, 4) >= input$range[1]
+  selectedData <- reactive({Sankeylinks <- smartbind(dat.sub <- dat[dat$destination %in% c(input$taxon) & substring(dat$source, 1, 4) >= input$range[1]
                                            & substring(dat$source, 1, 4) <= input$range[2], c(1:3)], 
-                                          dat.sub2 <- na.omit(dat[dat$source %in% c(input$taxon) & ((dat$destination.initialYear %in% input$range[1]:input$range[2])
+                                          dat.sub3 <- aggregate(weight ~ source+destination, data = dat.sub2 <- na.omit(dat[dat$source %in% c(input$taxon) & ((dat$destination.initialYear %in% input$range[1]:input$range[2])
                                                                                                     | (dat$destination.finalYear %in% input$range[1]:input$range[2]))
-                                                            , c(1:3)])
+                                                                  & dat$specificyear %in% input$range[1]:input$range[2]
+                                                            , c(1:3)]), FUN = sum)
                                           )}) 
                                   
   ## create and output googleVis Sankey Flow Diagram to user
