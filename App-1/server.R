@@ -33,7 +33,7 @@ shinyServer(function(input, output) {
   ## create and output googleVis Sankey Flow Diagram to user
   ## output$plot <-  renderGvis({gvisSankey(dat, from="source", to="destination", weight="weight")})
   output$view <- renderGvis({gvisSankey(selectedData(), options=list(height=1000, width=1000,
-                                                                     sankey="{iterations: 0, tooltip: {isHTML: true}, node: {nodePadding: 5, interactivity: true, labelPadding: 12, label: {color: 'white'}}, 
+                                                                     sankey="{iterations: 0, tooltip: {isHTML: true}, node: {nodePadding: 5, interactivity: true, labelPadding: 12, label: {color: 'white', bold:true}}, 
                                                                      link: {colorMode:'source', color: {stroke: 'grey',
                                                                      strokeWidth: .1}, colors: ['#CD0074','#FF5F00','#00A67C','9Fee00']}}"))})
 })
