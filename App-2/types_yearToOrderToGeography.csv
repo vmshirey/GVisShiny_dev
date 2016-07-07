@@ -1,0 +1,1080 @@
+source,destination,weight,specificyear
+N/A,Acari,1,""
+N/A,Acarina,2,""
+N/A,Amblypygi,1,""
+N/A,Araneae,2,""
+N/A,Blattodea,33,""
+N/A,Chilopoda,14,""
+N/A,Coleoptera,33,""
+N/A,Dermaptera,1,""
+N/A,Diplopoda,11,""
+N/A,Diptera,4,""
+N/A,Ephemeroptera,2,""
+N/A,Geophilomorpha,9,""
+N/A,Hymenoptera,391,""
+N/A,Lepidoptera,12,""
+N/A,Mantodea,10,""
+N/A,Neuroptera,15,""
+N/A,Odonata,12,""
+N/A,Opiliones,10,""
+N/A,Orthoptera,304,""
+N/A,Phasmatodea,14,""
+N/A,Pseudoscorpiones,1,""
+N/A,Scorpionidea,1,""
+1758,Orthoptera,2,""
+1828,Lepidoptera,1,""
+1831,Orthoptera,1,""
+1832,Lepidoptera,11,""
+1834,Coleoptera,1,""
+1838,Orthoptera,1,""
+1839,Orthoptera,1,""
+1840,Coleoptera,1,""
+1841,Orthoptera,1,""
+1845,Coleoptera,1,""
+1846,Diptera,1,""
+1846,Lepidoptera,1,""
+1850,Orthoptera,2,""
+1851,Lepidoptera,7,""
+1853,Lepidoptera,1,""
+1853[1854],Hemiptera,2,""
+1855,Coleoptera,1,""
+1857,Blattodea,2,""
+1857,Lepidoptera,1,""
+1858,Blattodea,1,""
+1858,Coleoptera,4,""
+1859,Diptera,46,""
+1859,Lepidoptera,36,""
+1860,Coleoptera,1,""
+1860,Hymenoptera,1,""
+1860,Lepidoptera,125,""
+1861,Hemiptera,1,""
+1861,Hymenoptera,4,""
+1861,Lepidoptera,1,""
+1861,Orthoptera,4,""
+1862,Blattodea,2,""
+1862,Coleoptera,9,""
+1862,Hemiptera,1,""
+1862,Hymenoptera,11,""
+1862,Lepidoptera,19,""
+1862,Orthoptera,39,""
+1863,Coleoptera,10,""
+1863,Hemiptera,5,""
+1863,Hymenoptera,38,""
+1863,Lepidoptera,53,""
+1863,Orthoptera,1,""
+1864,Coleoptera,24,""
+1864,Hymenoptera,276,""
+1864,Lepidoptera,87,""
+1864,Orthoptera,5,""
+1865,Coleoptera,25,""
+1865,Diptera,1,""
+1865,Hymenoptera,385,""
+1865,Lepidoptera,72,""
+1866,Coleoptera,8,""
+1866,Hymenoptera,9,""
+1866,Lepidoptera,19,""
+1867,Diptera,2,""
+1867,Hymenoptera,173,""
+1867,Lepidoptera,24,""
+1867[1868],Hymenoptera,1,""
+1868,Hymenoptera,199,""
+1868,Lepidoptera,17,""
+1868,Orthoptera,1,""
+1868[1869],Hymenoptera,5,""
+1869,Blattodea,3,""
+1869,Diptera,2,""
+1869,Hymenoptera,77,""
+1869,Lepidoptera,43,""
+1869,Mantodea,1,""
+1869,Orthoptera,49,""
+1869,Phasmatodea,1,""
+1870,Coleoptera,2,""
+1870,Diplopoda,1,""
+1870,Hemiptera,1,""
+1870,Hymenoptera,79,""
+1870,Lepidoptera,10,""
+1871,Hymenoptera,70,""
+1871,Lepidoptera,2,""
+1872,Coleoptera,2,""
+1872,Hymenoptera,320,""
+1872,Lepidoptera,37,""
+1872,Mantodea,1,""
+1872,Orthoptera,7,""
+1872[1873],Hymenoptera,12,""
+1873,Coleoptera,35,""
+1873,Hymenoptera,196,""
+1873,Lepidoptera,6,""
+1873[1874],Hymenoptera,21,""
+1874,Coleoptera,1,""
+1874,Hymenoptera,7,""
+1875,Hymenoptera,1,""
+1875,Blattodea,1,""
+1875,Dermaptera,2,""
+1875,Diptera,2,""
+1875,Hymenoptera,16,""
+1875,Lepidoptera,1,""
+1875,Orthoptera,71,""
+1875,Phasmatodea,3,""
+1875[1876],Hymenoptera,1,""
+1876,Coleoptera,41,""
+1876,Hymenoptera,2,""
+1876,Lepidoptera,1,""
+1876,Orthoptera,40,""
+1877,Blattodea,2,""
+1877,Coleoptera,1,""
+1877,Hymenoptera,70,""
+1877,Lepidoptera,1,""
+1877,Mantodea,1,""
+1877,Orthoptera,29,""
+1878,Coleoptera,6,""
+1878,Hymenoptera,319,""
+1878,Orthoptera,36,""
+1878[1879],Hymenoptera,60,""
+1879,Coleoptera,2,""
+1879,Hymenoptera,136,""
+1879,Lepidoptera,1,""
+1879,Orthoptera,1,""
+1880,Hymenoptera,176,""
+1881,Hymenoptera,42,""
+1881,Lepidoptera,2,""
+1881,Orthoptera,9,""
+1881[1882],Hymenoptera,18,""
+1882,Coleoptera,6,""
+1882,Hymenoptera,2,""
+1882,Lepidoptera,3,""
+1883,Blattodea,1,""
+1883,Psocoptera,8,""
+1883[1884],Coleoptera,1,""
+1884,Coleoptera,5,""
+1884,Lepidoptera,2,""
+1884,Orthoptera,3,""
+1885,Coleoptera,4,""
+1885,Hymenoptera,32,""
+1885,Orthoptera,8,""
+1886,Coleoptera,4,""
+1886,Hymenoptera,25,""
+1886,Psocoptera,8,""
+1886[1887],Diptera,2,""
+1887,Coleoptera,5,""
+1887,Hymenoptera,6,""
+1888,Hymenoptera,5,""
+1889,Blattodea,1,""
+1889,Coleoptera,10,""
+1889,Hymenoptera,11,""
+1889,Lepidoptera,4,""
+1889,Orthoptera,12,""
+1890,Coleoptera,25,""
+1890,Hymenoptera,51,""
+1890,Lepidoptera,2,""
+1890,Odonata,3,""
+1890,Orthoptera,15,""
+1891,Coleoptera,7,""
+1891,Hymenoptera,17,""
+1891,Lepidoptera,1,""
+1891,Odonata,1,""
+1891,Orthoptera,11,""
+1892,Coleoptera,8,""
+1892,Hymenoptera,35,""
+1892,Lepidoptera,8,""
+1892,Orthoptera,23,""
+1893,Coleoptera,18,""
+1893,Diptera,1,""
+1893,Hymenoptera,35,""
+1893,Lepidoptera,2,""
+1893,Odonata,1,""
+1893,Orthoptera,11,""
+1893[1894],Hymenoptera,21,""
+1894,Coleoptera,5,""
+1894,Hymenoptera,26,""
+1894,Lepidoptera,2,""
+1894,Orthoptera,44,""
+1895,Coleoptera,9,""
+1895,Hymenoptera,88,""
+1895,Lepidoptera,5,""
+1895,Odonata,3,""
+1895,Orthoptera,14,""
+1895,Phasmatodea,1,""
+1895[1896],Hymenoptera,7,""
+1896,Coleoptera,33,""
+1896,Hymenoptera,64,""
+1896,Lepidoptera,2,""
+1896,Mantodea,5,""
+1896,Orthoptera,18,""
+1897,Coleoptera,4,""
+1897,Hymenoptera,106,""
+1897,Lepidoptera,6,""
+1897,Orthoptera,105,""
+1897[1868],Hymenoptera,2,""
+1897[1898],Hymenoptera,117,""
+1898,Coleoptera,1,""
+1898,Diptera,14,""
+1898,Hymenoptera,62,""
+1898,Lepidoptera,1,""
+1898,Odonata,1,""
+1898,Orthoptera,32,""
+1899,Coleoptera,11,""
+1899,Hymenoptera,66,""
+1899,Lepidoptera,3,""
+1899,Odonata,3,""
+1899,Orthoptera,74,""
+1900,Blattodea,2,""
+1900,Coleoptera,7,""
+1900,Hemiptera,1,""
+1900,Hymenoptera,42,""
+1900,Mantodea,1,""
+1900,Orthoptera,68,""
+1900,Phasmatodea,2,""
+1901,Blattodea,1,""
+1901,Dermaptera,2,""
+1901,Hymenoptera,3,""
+1901,Lepidoptera,2,""
+1901,Mantodea,7,""
+1901,Orthoptera,31,""
+1901,Phasmatodea,2,""
+1902,Blattodea,3,""
+1902,Diptera,11,""
+1902,Hymenoptera,16,""
+1902,Lepidoptera,6,""
+1902,Odonata,7,""
+1902,Orthoptera,60,""
+1902,Phasmatodea,3,""
+1902[1903],Hymenoptera,7,""
+1903,Blattodea,9,""
+1903,Coleoptera,7,""
+1903,Diptera,5,""
+1903,Hemiptera,2,""
+1903,Hymenoptera,118,""
+1903,Lepidoptera,4,""
+1903,Odonata,5,""
+1903,Orthoptera,14,""
+1903,Phasmatodea,1,""
+1904,Blattodea,3,""
+1904,Coleoptera,3,""
+1904,Diptera,3,""
+1904,Hemiptera,2,""
+1904,Hymenoptera,104,""
+1904,Lepidoptera,1,""
+1904,Mantodea,4,""
+1904,Orthoptera,96,""
+1904,Phasmatodea,8,""
+1905,Blattodea,1,""
+1905,Coleoptera,13,""
+1905,Hymenoptera,17,""
+1905,Lepidoptera,4,""
+1905,Odonata,1,""
+1905,Orthoptera,70,""
+1905,Phasmatodea,2,""
+1906,Blattodea,6,""
+1906,Coleoptera,1,""
+1906,Delete,1,""
+1906,Diptera,8,""
+1906,Hymenoptera,2,""
+1906,Lepidoptera,3,""
+1906,Mantodea,1,""
+1906,Odonata,1,""
+1906,Orthoptera,63,""
+1906,Phasmatodea,2,""
+1907,Coleoptera,3,""
+1907,Diptera,4,""
+1907,Hymenoptera,17,""
+1907,Lepidoptera,3,""
+1907,Mantodea,3,""
+1907,Odonata,3,""
+1907,Orthoptera,51,""
+1907,Phasmatodea,2,""
+1908,Coleoptera,1,""
+1908,Diptera,3,""
+1908,Hymenoptera,6,""
+1908,Lepidoptera,13,""
+1908,Mantodea,1,""
+1908,Odonata,3,""
+1908,Orthoptera,48,""
+1908,Phasmatodea,1,""
+1909,Blattodea,2,""
+1909,Coleoptera,3,""
+1909,Diptera,3,""
+1909,Hymenoptera,5,""
+1909,Mantodea,1,""
+1909,Odonata,15,""
+1909,Orthoptera,13,""
+1909,Phasmatodea,3,""
+1910,Blattodea,1,""
+1910,Coleoptera,2,""
+1910,Diptera,1,""
+1910,Hemiptera,2,""
+1910,Orthoptera,33,""
+1910[1911],Orthoptera,1,""
+1911,Blattodea,1,""
+1911,Coleoptera,1,""
+1911,Diptera,9,""
+1911,Hymenoptera,1,""
+1911,Lepidoptera,13,""
+1911,Mantodea,3,""
+1911,Odonata,1,""
+1911,Orthoptera,57,""
+1911,Phasmatodea,4,""
+1912,Coleoptera,1,""
+1912,Diptera,11,""
+1912,Hymenoptera,7,""
+1912,Lepidoptera,2,""
+1912,Mantodea,2,""
+1912,Odonata,2,""
+1912,Orthoptera,34,""
+1913,Blattodea,3,""
+1913,Diptera,8,""
+1913,Hymenoptera,5,""
+1913,Lepidoptera,3,""
+1913,Mantodea,3,""
+1913,Odonata,1,""
+1913,Orthoptera,53,""
+1913,Phasmatodea,1,""
+1914,Blattodea,1,""
+1914,Dermaptera,1,""
+1914,Diptera,62,""
+1914,Hymenoptera,9,""
+1914,Lepidoptera,6,""
+1914,Orthoptera,23,""
+1914,Phasmatodea,1,""
+1915,Blattodea,2,""
+1915,Coleoptera,4,""
+1915,Diptera,17,""
+1915,Hymenoptera,1,""
+1915,Lepidoptera,9,""
+1915,Orthoptera,104,""
+1916,Blattodea,29,""
+1916,Coleoptera,2,""
+1916,Dermaptera,1,""
+1916,Diptera,26,""
+1916,Hymenoptera,2,""
+1916,Lepidoptera,3,""
+1916,Mantodea,2,""
+1916,Orthoptera,33,""
+1916[1917],Hymenoptera,33,""
+1917,Blattodea,11,""
+1917,Coleoptera,3,""
+1917,Dermaptera,5,""
+1917,Diptera,17,""
+1917,Hymenoptera,42,""
+1917,Lepidoptera,6,""
+1917,Odonata,2,""
+1917,Orthoptera,20,""
+1918,Blattodea,7,""
+1918,Coleoptera,1,""
+1918,Diptera,87,""
+1918,Lepidoptera,1,""
+1918,Mantodea,2,""
+1918,Odonata,1,""
+1918,Orthoptera,55,""
+1918,Phasmatodea,1,""
+1919,Blattodea,15,""
+1919,Coleoptera,1,""
+1919,Dermaptera,3,""
+1919,Diptera,37,""
+1919,Lepidoptera,3,""
+1919,Mantodea,2,""
+1919,Odonata,3,""
+1919,Orthoptera,50,""
+1919,Phasmatodea,9,""
+1920,Blattodea,13,""
+1920,Coleoptera,4,""
+1920,Diptera,22,""
+1920,Hymenoptera,6,""
+1920,Lepidoptera,13,""
+1920,Mantodea,15,""
+1920,Odonata,2,""
+1920,Orthoptera,30,""
+1920,Phasmatodea,3,""
+1921,Blattodea,36,""
+1921,Dermaptera,4,""
+1921,Diptera,33,""
+1921,Hymenoptera,1,""
+1921,Lepidoptera,4,""
+1921,Odonata,1,""
+1921,Orthoptera,4,""
+1921,Phasmatodea,1,""
+1921[1922],Diptera,1,""
+1922,Blattodea,11,""
+1922,Coleoptera,2,""
+1922,Dermaptera,1,""
+1922,Diptera,2,""
+1922,Hymenoptera,28,""
+1922,Mantodea,4,""
+1922,Orthoptera,78,""
+1923,Blattodea,7,""
+1923,Dermaptera,11,""
+1923,Diptera,9,""
+1923,Hemiptera,1,""
+1923,Hymenoptera,1,""
+1923,Lepidoptera,3,""
+1923,Orthoptera,74,""
+1923,Phasmatodea,4,""
+1924,Blattodea,2,""
+1924,Dermaptera,3,""
+1924,Diptera,11,""
+1924,Mantodea,1,""
+1924,Odonata,2,""
+1924,Orthoptera,45,""
+1924,Phasmatodea,7,""
+1925,Coleoptera,1,""
+1925,Dermaptera,1,""
+1925,Diptera,18,""
+1925,Hemiptera,5,""
+1925,Orthoptera,8,""
+1926,Blattodea,53,""
+1926,Diptera,23,""
+1926,Hymenoptera,2,""
+1926,Lepidoptera,10,""
+1926,Orthoptera,6,""
+1927,Blattodea,38,""
+1927,Coleoptera,3,""
+1927,Dermaptera,4,""
+1927,Diptera,8,""
+1927,Lepidoptera,9,""
+1927,Mantodea,1,""
+1927,Odonata,1,""
+1927,Orthoptera,43,""
+1928,Blattodea,16,""
+1928,Coleoptera,2,""
+1928,Lepidoptera,5,""
+1928,Orthoptera,46,""
+1928[1929],Hymenoptera,3,""
+1929,Blattodea,30,""
+1929,Coleoptera,4,""
+1929,Dermaptera,1,""
+1929,Diptera,14,""
+1929,Lepidoptera,1,""
+1929,Orthoptera,25,""
+1930,Blattodea,9,""
+1930,Diptera,27,""
+1930,Hymenoptera,38,""
+1930,Lepidoptera,1,""
+1930,Odonata,1,""
+1930,Orthoptera,5,""
+1931,Blattodea,5,""
+1931,Diptera,7,""
+1931,Lepidoptera,11,""
+1931,Mantodea,1,""
+1931,Odonata,8,""
+1931,Orthoptera,10,""
+1932,Blattodea,16,""
+1932,Coleoptera,2,""
+1932,Dermaptera,1,""
+1932,Diptera,9,""
+1932,Orthoptera,31,""
+1932,Phasmatodea,2,""
+1932[1933],Blattodea,1,""
+1933[1932],Blattodea,1,""
+1933,Blattodea,20,""
+1933,Coleoptera,1,""
+1933,Dermaptera,3,""
+1933,Diptera,5,""
+1933,Lepidoptera,1,""
+1933,Orthoptera,14,""
+1933,Phasmatodea,11,""
+1934,Coleoptera,5,""
+1934,Diptera,14,""
+1934,Hymenoptera,6,""
+1934,Orthoptera,18,""
+1934,Phasmatodea,2,""
+1935,Blattodea,2,""
+1935,Coleoptera,1,""
+1935,Diptera,14,""
+1935,Hymenoptera,1,""
+1935,Mantodea,8,""
+1935,Orthoptera,22,""
+1936,Dermaptera,2,""
+1936,Diptera,5,""
+1936,Hymenoptera,3,""
+1936,Orthoptera,35,""
+1937,Blattodea,14,""
+1937,Hymenoptera,9,""
+1937,Lepidoptera,1,""
+1937,Mantodea,1,""
+1937,Orthoptera,25,""
+1937,Phasmatodea,3,""
+1938,Blattodea,1,""
+1938,Diptera,12,""
+1938,Hymenoptera,12,""
+1938,Mantodea,1,""
+1938,Orthoptera,9,""
+1938,Phasmatodea,22,""
+1939,Diptera,31,""
+1939,Hymenoptera,14,""
+1939,Lepidoptera,4,""
+1939,Neuroptera,4,""
+1939,Orthoptera,25,""
+1940,Coleoptera,1,""
+1940,Diptera,41,""
+1940,Hymenoptera,22,""
+1940,Orthoptera,9,""
+1940,Phasmatodea,1,""
+1941,Coleoptera,5,""
+1941,Diptera,14,""
+1941,Hymenoptera,15,""
+1941,Lepidoptera,11,""
+1941,Mantodea,1,""
+1941,Orthoptera,10,""
+1941,Trichoptera,2,""
+1942,Diplopoda,2,""
+1942,Diptera,21,""
+1942,Hymenoptera,9,""
+1942,Orthoptera,24,""
+1942,Polydesmida,4,""
+1943,Blattodea,8,""
+1943,Diptera,9,""
+1943,Hymenoptera,16,""
+1943,Lepidoptera,2,""
+1943,Orthoptera,5,""
+1944,Diptera,12,""
+1944,Hymenoptera,4,""
+1944,Orthoptera,18,""
+1945,Blattodea,2,""
+1945,Coleoptera,11,""
+1945,Orthoptera,14,""
+1946,Coleoptera,3,""
+1946,Dermaptera,4,""
+1946,Diptera,2,""
+1946,Hymenoptera,2,""
+1946,Orthoptera,7,""
+1947,Blattodea,1,""
+1947,Diptera,1,""
+1947,Hymenoptera,12,""
+1947,Odonata,3,""
+1947,Orthoptera,10,""
+1947,Phasmatodea,6,""
+1948,Coleoptera,1,""
+1948,Delete,1,""
+1948,Dermaptera,1,""
+1948,Diptera,3,""
+1948,Hymenoptera,1,""
+1948,Lepidoptera,1,""
+1948,Orthoptera,3,""
+1949,Coleoptera,1,""
+1949,Diptera,3,""
+1949,Lepidoptera,4,""
+1949,Mantodea,7,""
+1949,Odonata,1,""
+1950,Coleoptera,5,""
+1950,Diptera,2,""
+1950,Orthoptera,7,""
+1950,Polydesmida,4,""
+1951,Blattodea,2,""
+1951,Mantodea,3,""
+1951,Orthoptera,5,""
+1952,Dermaptera,1,""
+1952,Orthoptera,2,""
+1953,Orthoptera,5,""
+1953,Phasmatodea,1,""
+1954,Coleoptera,1,""
+1954,Diptera,25,""
+1955,Orthoptera,13,""
+1956,Orthoptera,14,""
+1957,Coleoptera,3,""
+1957,Diptera,41,""
+1957,Orthoptera,1,""
+1958,Diptera,1,""
+1958,Ephemeroptera,1,""
+1958,Orthoptera,7,""
+1959,Collembola,1,""
+1959,Diptera,1,""
+1959,Orthoptera,7,""
+1960,Collembola,7,""
+1960,Diptera,11,""
+1960,Hymenoptera,2,""
+1960,Orthoptera,2,""
+1961,Collembola,6,""
+1961,Orthoptera,7,""
+1962,Coleoptera,3,""
+1962,Collembola,3,""
+1962,Diptera,5,""
+1962,Orthoptera,2,""
+1963,Coleoptera,2,""
+1963,Collembola,5,""
+1963,Lepidoptera,3,""
+1963,Orthoptera,3,""
+1964,Collembola,4,""
+1964,Orthoptera,14,""
+1965,Blattodea,1,""
+1965,Coleoptera,1,""
+1965,Collembola,3,""
+1965,Diptera,1,""
+1965,Orthoptera,2,""
+1966,Coleoptera,2,""
+1966,Diptera,1,""
+1966,Orthoptera,1,""
+1967,Orthoptera,8,""
+1968,Orthoptera,14,""
+1969,Orthoptera,10,""
+1970,Orthoptera,13,""
+1971,Diptera,3,""
+1971,Orthoptera,13,""
+1971,Phasmatodea,1,""
+1972,Hymenoptera,1,""
+1972,Lepidoptera,1,""
+1972,Orthoptera,6,""
+1973,Blattodea,3,""
+1973,Orthoptera,10,""
+1974,Orthoptera,33,""
+1975,Orthoptera,12,""
+1976,Hymenoptera,1,""
+1976,Orthoptera,19,""
+1977,Blattodea,1,""
+1977,Diptera,1,""
+1977,Ephemeroptera,1,""
+1977,Orthoptera,4,""
+1979,Blattodea,3,""
+1979,Diptera,1,""
+1979,Orthoptera,15,""
+1980,Diptera,1,""
+1980,Hemiptera,1,""
+1981,Diptera,1,""
+1981,Orthoptera,1,""
+1982,Diptera,1,""
+1982,Mantodea,1,""
+1983,Diptera,5,""
+1983,Orthoptera,16,""
+1984,Orthoptera,36,""
+1985,Blattodea,1,""
+1985,Diptera,1,""
+1985,Orthoptera,8,""
+1986,Blattodea,1,""
+1986,Coleoptera,1,""
+1987,Diptera,7,""
+1987,Orthoptera,46,""
+1988,Diptera,1,""
+1988,Orthoptera,13,""
+1989,Dermaptera,1,""
+1989,Mantodea,1,""
+1991,Blattodea,1,""
+1993,Blattodea,1,""
+1994,Ephemeroptera,1,""
+1994,Orthoptera,207,""
+1995,Blattodea,2,""
+1995,Orthoptera,7,""
+1996,Blattodea,3,""
+1997,Blattodea,3,""
+1997,Odonata,1,""
+1997,Orthoptera,7,""
+1997[1998],Orthoptera,7,""
+1998,Blattodea,1,""
+1998,Orthoptera,10,""
+1999,Blattodea,2,""
+1999,Lepidoptera,1,""
+2002,Orthoptera,7,""
+2003,Coleoptera,1,""
+2003,Diplura,2,""
+2003,Orthoptera,13,""
+2005,Diplura,3,""
+2005,Lepidoptera,1,""
+2006,Diplura,4,""
+2006,Ephemeroptera,1,""
+Acari,Costa Rica,1,""
+Acarina,Costa Rica,2,""
+Amblypygi,South Africa,1,""
+Araneae,United States,2,""
+Blattodea,"",69,1916
+Blattodea,Argentina,13,1921
+Blattodea,Australia,10,1943
+Blattodea,Bahamas,2,1916
+Blattodea,Barbados,2,1916
+Blattodea,Bermuda,1,1932
+Blattodea,Bolivia,2,1928
+Blattodea,Bonaire,1,1930
+Blattodea,Brazil (Brasil),43,1921
+Blattodea,Cameroon [=Kamerun?],3,1937
+Blattodea,Chile,3,1933
+Blattodea,Colombia,36,1919
+Blattodea,Congo,2,1937
+Blattodea,Costa Rica,11,1916
+Blattodea,Cuba,18,1922
+Blattodea,Dominican Republic (San Domingo),2,1927
+Blattodea,Ecuador,2,1924
+Blattodea,French Guiana,49,1926
+Blattodea,Ghana,1,1937
+Blattodea,Guatemala,2,1922
+Blattodea,Guiana (British Guiana),19,1926
+Blattodea,Haiti (Hayti),4,1932
+Blattodea,Honduras,2,1945
+Blattodea,Jamaica,22,1916
+Blattodea,Java,4,1929
+Blattodea,Liberia,1,1937
+Blattodea,Malaysia,3,1929
+Blattodea,Marquesas Islands,2,1935
+Blattodea,Mexico,18,1921
+Blattodea,Mozambique,1,1931
+Blattodea,New Guinea,3,1979
+Blattodea,Nicaragua,2,1902
+Blattodea,Panama,22,1920
+Blattodea,Paraguay,3,1937
+Blattodea,Peru,10,1916
+Blattodea,Puerto Rico,4,1932
+Blattodea,Singapore,2,1929
+Blattodea,South Africa,10,1933
+Blattodea,Sumatra,13,1929
+Blattodea,Trinidad,7,1906
+Blattodea,Uganda,1,1932[1933]
+Blattodea,United States,26,1917
+Blattodea,Venezuela,1,1930
+Blattodea,Zambia,1,1922
+Blattodea,Zimbabwe,1,1937
+Chilopoda,"",3,""
+Chilopoda,China,1,""
+Chilopoda,India (Bharat),1,""
+Chilopoda,Singapore,1,""
+Chilopoda,Surinam,1,""
+Chilopoda,Trinidad,1,""
+Chilopoda,United States,5,""
+Chilopoda,Venezuela,1,""
+Coleoptera,"",14,1945
+Coleoptera,Andaman Islands,1,1879
+Coleoptera,Angola,1,1908
+Coleoptera,Australia,14,1891
+Coleoptera,Bolivia,3,1945
+Coleoptera,Brazil (Brasil),16,1946
+Coleoptera,Brunei,2,1920
+Coleoptera,Cambodia,1,1864
+Coleoptera,Canada,11,1864
+Coleoptera,Chile,2,1864
+Coleoptera,China,2,""
+Coleoptera,Colombia,6,""
+Coleoptera,Congo,1,""
+Coleoptera,Costa Rica,3,1920
+Coleoptera,Cuba,2,1922
+Coleoptera,Ecuador,1,2003
+Coleoptera,Gabon,5,""
+Coleoptera,Guiana (British Guiana),1,1946
+Coleoptera,India (Bharat),3,1963
+Coleoptera,Indonesia,2,1950
+Coleoptera,Japan (Nippon),1,1898
+Coleoptera,Java,2,1891
+Coleoptera,Laos,1,""
+Coleoptera,Madagascar,1,1890
+Coleoptera,Malaysia,3,""
+Coleoptera,Mexico,13,1862
+Coleoptera,Moluccas,2,""
+Coleoptera,Myanmar [=Burma],1,1963
+Coleoptera,New Caledonia,2,1864
+Coleoptera,New Guinea,4,1950
+Coleoptera,Panama,1,""
+Coleoptera,Paraguay,1,1945
+Coleoptera,Philippines,3,""
+Coleoptera,Senegal,1,1858
+Coleoptera,Sierra Leone,1,""
+Coleoptera,Sri Lanka (Ceylon),1,""
+Coleoptera,Sumatra,11,1900
+Coleoptera,Tanzania,2,1903
+Coleoptera,United States,340,1916
+Coleoptera,Venezuela,1,1965
+Collembola,Japan (Nippon),2,1961
+Collembola,United States,27,1959
+Delete,"",65,""
+Delete,Argentina,1,1906
+Delete,New Guinea,1,1948
+Dermaptera,"",2,1936
+Dermaptera,Angola,1,1933
+Dermaptera,Australia,1,1933
+Dermaptera,Bahamas,1,1921
+Dermaptera,Brazil (Brasil),2,1916
+Dermaptera,Colombia,4,1919
+Dermaptera,Congo,1,1936
+Dermaptera,Costa Rica,3,1921
+Dermaptera,Cuba,1,1925
+Dermaptera,Ecuador,3,1924
+Dermaptera,Ethiopia,1,1901
+Dermaptera,Fiji Islands,1,1948
+Dermaptera,India (Bharat),10,1923
+Dermaptera,Indonesia,2,1946
+Dermaptera,Jamaica,1,1917
+Dermaptera,Kenya,1,1952
+Dermaptera,Mexico,3,1917
+Dermaptera,Myanmar [=Burma],1,1923
+Dermaptera,Panama,2,1933
+Dermaptera,Peru,2,1989
+Dermaptera,Philippines,2,1946
+Dermaptera,Sumatra,4,1927
+Dermaptera,United States,4,1922
+Diplopoda,"",2,""
+Diplopoda,Bermuda,1,""
+Diplopoda,United States,11,""
+Diplura,Jamaica,2,2005
+Diplura,United States,7,2005
+Diptera,"",27,1898
+Diptera,Australia,11,1935
+Diptera,Austria (Österreich),5,1932
+Diptera,Bermuda,2,1911
+Diptera,Brazil (Brasil),8,1930
+Diptera,Canada,22,1918
+Diptera,Colombia,14,1930
+Diptera,Congo,1,1929
+Diptera,Costa Rica,97,1914
+Diptera,Croatia,1,1930
+Diptera,Cuba,2,1922
+Diptera,Egypt,3,1946
+Diptera,Germany (Deutschland),4,1929
+Diptera,Greenland,7,1930
+Diptera,Guatemala,2,1930
+Diptera,Guiana (British Guiana),6,1912
+Diptera,Guyana (Dutch Guiana),4,1930
+Diptera,Honduras,7,1926
+Diptera,India (Bharat),2,1934
+Diptera,Jamaica,1,1916
+Diptera,Japan (Nippon),1,1941
+Diptera,Kenya,1,1947
+Diptera,Madagascar,45,1927
+Diptera,Mexico,12,1941
+Diptera,Myanmar [=Burma],1,1917
+Diptera,New Guinea,6,1929
+Diptera,Nicaragua,1,1923
+Diptera,Panama,4,1962
+Diptera,Paraguay,3,1929
+Diptera,Peru,13,""
+Diptera,Philippines,1,1948
+Diptera,Sri Lanka (Ceylon),1,1943
+Diptera,Taiwan (Formosa),11,1929
+Diptera,Tibet,1,1934
+Diptera,Turkey,1,1934
+Diptera,United States,536,1918
+Diptera,Venezuela,2,1926
+Diptera,Vietnam,2,1929
+Ephemeroptera,Peru,2,1994
+Ephemeroptera,United States,5,""
+Geophilomorpha,"",2,""
+Geophilomorpha,United States,7,""
+Hemiptera,"",1,1870
+Hemiptera,Colombia,5,1925
+Hemiptera,Cuba,4,1863
+Hemiptera,Trinidad,1,1925
+Hemiptera,United States,13,1853[1854]
+Hymenoptera,"",448,1896
+Hymenoptera,"""N. E. Africa""",5,1896
+Hymenoptera,Australia,1,1887
+Hymenoptera,Borneo,4,1938
+Hymenoptera,Brazil (Brasil),36,1942
+Hymenoptera,Canada,176,1868
+Hymenoptera,Costa Rica,12,1920
+Hymenoptera,Cuba,161,1863
+Hymenoptera,Dominican Republic (San Domingo),2,1947
+Hymenoptera,Greenland,3,1892
+Hymenoptera,Guatemala,1,1871
+Hymenoptera,Guiana (British Guiana),2,1942
+Hymenoptera,Haiti (Hayti),2,1914
+Hymenoptera,Jamaica,10,1891
+Hymenoptera,Kenya,1,1896
+Hymenoptera,Mexico,507,1867
+Hymenoptera,North America,1,1888
+Hymenoptera,Northeast Africa,2,1896
+Hymenoptera,Panama,1,1879
+Hymenoptera,Philippines,1,1938
+Hymenoptera,Puerto Rico,5,1912
+Hymenoptera,South Africa,1,1886
+Hymenoptera,Syria,1,1882
+Hymenoptera,Trinidad,2,1941
+Hymenoptera,United States,3151,1862
+Hymenoptera,Venezuela,4,1942
+Hymenoptera,West Indies,1,1899
+Lepidoptera,"",244,""
+Lepidoptera,Bolivia,6,1927
+Lepidoptera,Brazil (Brasil),10,1916
+Lepidoptera,Canada,21,1897
+Lepidoptera,Colombia,5,1920
+Lepidoptera,Costa Rica,1,1931
+Lepidoptera,Cuba,76,1865
+Lepidoptera,Dominican Republic (San Domingo),2,1920
+Lepidoptera,Ecuador,15,1920
+Lepidoptera,French Guiana,1,""
+Lepidoptera,Greenland,4,1892
+Lepidoptera,Guiana (British Guiana),4,1926
+Lepidoptera,Guyana (Dutch Guiana),4,1931
+Lepidoptera,Haiti (Hayti),3,1889
+Lepidoptera,Honduras,2,1920
+Lepidoptera,Jamaica,2,1920
+Lepidoptera,Martinique,1,1920
+Lepidoptera,Mexico,5,1866
+Lepidoptera,New Hebrides,1,1903
+Lepidoptera,Nicaragua,1,1923
+Lepidoptera,Panama,2,1920
+Lepidoptera,Peru,1,1920
+Lepidoptera,United States,388,1866
+Lepidoptera,USA,1,1866
+Lepidoptera,Venezuela,1,1926
+Mantodea,"",9,1901
+Mantodea,Argentina,2,1913
+Mantodea,Australia,1,1920
+Mantodea,Borneo,2,1920
+Mantodea,Brazil (Brasil),6,1916
+Mantodea,Cameroon [=Kamerun?],1,1912
+Mantodea,China,1,1937
+Mantodea,Colombia,4,1919
+Mantodea,Comoro Islands,1,""
+Mantodea,Congo,5,1949
+Mantodea,Costa Rica,7,1935
+Mantodea,Ecuador,2,1924
+Mantodea,French Guiana,6,""
+Mantodea,Guatemala,1,1935
+Mantodea,Guiana (British Guiana),1,1906
+Mantodea,Jamaica,1,1938
+Mantodea,Kenya,1,1901
+Mantodea,Liberia,1,1949
+Mantodea,Madagascar,1,1989
+Mantodea,Malaysia,1,1920
+Mantodea,Mexico,7,1922
+Mantodea,Moluccas,1,1920
+Mantodea,New Guinea,1,1920
+Mantodea,Nicaragua,1,1904
+Mantodea,Panama,2,1951
+Mantodea,Paraguay,4,1927
+Mantodea,Peru,1,1911
+Mantodea,Philippines,4,1920
+Mantodea,Sierra Leone,1,1949
+Mantodea,Singapore,1,1920
+Mantodea,Somalia,1,1911
+Mantodea,South Africa,2,1904
+Mantodea,Uganda,1,1912
+Mantodea,United States,11,1935
+Mantodea,Venezuela,2,1911
+Mantodea,Vietnam,1,1920
+Neuroptera,Congo,1,""
+Neuroptera,Costa Rica,1,""
+Neuroptera,Guyana (Dutch Guiana),2,""
+Neuroptera,United States,15,1939
+Odonata,"",4,""
+Odonata,Bolivia,8,1903
+Odonata,Brazil (Brasil),6,""
+Odonata,Canada,1,1890
+Odonata,China,1,1930
+Odonata,Congo,1,""
+Odonata,Costa Rica,16,1920
+Odonata,Ecuador,3,1909
+Odonata,Guatemala,1,1919
+Odonata,Guiana (British Guiana),3,1949
+Odonata,Haiti (Hayti),1,1893
+Odonata,Jamaica,1,1891
+Odonata,Mexico,14,1905
+Odonata,Paraguay,1,1899
+Odonata,Peru,1,1909
+Odonata,Somalia,2,1899
+Odonata,Surinam,2,1909
+Odonata,United States,23,1918
+Opiliones,Costa Rica,1,""
+Opiliones,Ecuador,6,""
+Opiliones,United States,3,""
+Orthoptera,"",328,1884
+Orthoptera,Angola,5,1987
+Orthoptera,Argentina,51,1911
+Orthoptera,Australia,5,1922
+Orthoptera,Bahamas,3,1913
+Orthoptera,Barbados,1,1905
+Orthoptera,Belize,1,1932
+Orthoptera,Bermuda,1,1909
+Orthoptera,Bolivia,67,1913
+Orthoptera,Bonin Islands [=Ogasawara Islands],1,1988
+Orthoptera,Borneo,6,1907
+Orthoptera,Brazil (Brasil),220,1913
+Orthoptera,British West Indies,1,1979
+Orthoptera,Brunei,2,1906
+Orthoptera,Cameroon,1,1919
+Orthoptera,Cameroon [=Kamerun?],18,1919
+Orthoptera,Canada,18,1885
+Orthoptera,Caroline Islands,1,1945
+Orthoptera,Central African Republic,1,1975
+Orthoptera,Chile,3,1942
+Orthoptera,China,11,1937
+Orthoptera,Colombia,113,1923
+Orthoptera,Comoro Islands,1,1959
+Orthoptera,Congo,5,1919
+Orthoptera,Costa Rica,109,1905
+Orthoptera,Cuba,14,1928
+Orthoptera,Curaçao,1,1937
+Orthoptera,Dominican Republic (San Domingo),22,1979
+Orthoptera,Ecuador,57,1924
+Orthoptera,Egypt,1,1913
+Orthoptera,Fiji Islands,2,1988
+Orthoptera,French Guiana,10,1920
+Orthoptera,Galapagos Islands,13,1997
+Orthoptera,Guatemala,13,1884
+Orthoptera,Guiana (British Guiana),11,1970
+Orthoptera,Guyana (Dutch Guiana),2,1906
+Orthoptera,Haiti (Hayti),7,1998
+Orthoptera,Honduras,9,1932
+Orthoptera,India (Bharat),67,1969
+Orthoptera,Indonesia,6,1898
+Orthoptera,Jamaica,8,1915
+Orthoptera,Japan (Nippon),3,1924
+Orthoptera,Java,3,1963
+Orthoptera,Kenya,19,1987
+Orthoptera,Korea (South),3,""
+Orthoptera,Liberia,1,1970
+Orthoptera,Madagascar,27,1900
+Orthoptera,Malawi,13,1987
+Orthoptera,Malaysia,32,1907
+Orthoptera,Mali,1,1984
+Orthoptera,Mexico,284,1908
+Orthoptera,Moluccas,10,1922
+Orthoptera,Morocco,1,1938
+Orthoptera,Mozambique,2,1988
+Orthoptera,Myanmar [=Burma],15,1968
+Orthoptera,Namibia,1,1956
+Orthoptera,New Caledonia,25,1987
+Orthoptera,New Guinea,7,1906
+Orthoptera,New Zealand,2,1875
+Orthoptera,Nicaragua,13,1907
+Orthoptera,Nigeria,3,1910
+Orthoptera,Palau [=Belau],1,1988
+Orthoptera,Panama,44,1904
+Orthoptera,Paraguay,21,1900
+Orthoptera,Peru,92,1924
+Orthoptera,Philippines,93,1915
+Orthoptera,Singapore,9,1922
+Orthoptera,Somalia,1,1901
+Orthoptera,South Africa,27,1956
+Orthoptera,Sri Lanka (Ceylon),21,1904
+Orthoptera,Sudan,1,1942
+Orthoptera,Sumatra,2,1941
+Orthoptera,Surinam,5,1964
+Orthoptera,Switzerland (Suisse),1,1869
+Orthoptera,Tanzania,23,1987
+Orthoptera,Thailand [=Siam],6,1975
+Orthoptera,Trinidad,8,1906
+Orthoptera,United States,1168,1898
+Orthoptera,Uruguay,1,1899
+Orthoptera,Venezuela,15,1976
+Orthoptera,Vietnam,10,1915
+Orthoptera,Zambia,1,1943
+Phasmatodea,"",4,""
+Phasmatodea,Angola,1,1911
+Phasmatodea,Argentina,1,1913
+Phasmatodea,Belize,1,1907
+Phasmatodea,Borneo,1,1938
+Phasmatodea,Botswana,1,1933
+Phasmatodea,Brazil (Brasil),5,1920
+Phasmatodea,Colombia,17,""
+Phasmatodea,Costa Rica,6,1923
+Phasmatodea,Cuba,1,1938
+Phasmatodea,Dominica,1,1938
+Phasmatodea,Ecuador,8,1924
+Phasmatodea,Ethiopia,1,""
+Phasmatodea,French Guiana,1,1933
+Phasmatodea,Guiana (British Guiana),1,1906
+Phasmatodea,Haiti (Hayti),1,1971
+Phasmatodea,Jamaica,4,1938
+Phasmatodea,Japan (Nippon),1,1904
+Phasmatodea,Java,1,1933
+Phasmatodea,Kenya,3,1911
+Phasmatodea,Madagascar,1,1940
+Phasmatodea,Mexico,5,1932
+Phasmatodea,Moluccas,5,1904
+Phasmatodea,Morocco,1,""
+Phasmatodea,Nicaragua,1,""
+Phasmatodea,Panama,4,1933
+Phasmatodea,Paraguay,1,1907
+Phasmatodea,Peru,5,1908
+Phasmatodea,Philippines,17,1938
+Phasmatodea,Puerto Rico,5,""
+Phasmatodea,United States,18,""
+Phasmatodea,Venezuela,1,1947
+Phasmatodea,Vietnam,1,1906
+Polydesmida,United States,8,1942
+Pseudoscorpiones,Costa Rica,1,""
+Psocoptera,United States,16,1883
+Scorpionidea,South Africa,1,""
+Trichoptera,United States,2,1941

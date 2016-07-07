@@ -1,0 +1,394 @@
+from,to,weight
+Andaman Islands,Coleoptera,1
+Angola,Coleoptera,1
+Angola,Dermaptera,1
+Angola,Orthoptera,5
+Angola,Phasmatodea,1
+Argentina,Blattodea,13
+Argentina,Delete,1
+Argentina,Mantodea,2
+Argentina,Orthoptera,51
+Argentina,Phasmatodea,1
+Australia,Blattodea,10
+Australia,Coleoptera,14
+Australia,Dermaptera,1
+Australia,Diptera,11
+Australia,Hymenoptera,1
+Australia,Mantodea,1
+Australia,Orthoptera,5
+Austria (Ã–sterreich),Diptera,5
+Bahamas,Blattodea,2
+Bahamas,Dermaptera,1
+Bahamas,Orthoptera,3
+Barbados,Blattodea,2
+Barbados,Orthoptera,1
+Belize,Orthoptera,1
+Belize,Phasmatodea,1
+Bermuda,Blattodea,1
+Bermuda,Diplopoda,1
+Bermuda,Diptera,2
+Bermuda,Orthoptera,1
+Bolivia,Blattodea,2
+Bolivia,Coleoptera,3
+Bolivia,Lepidoptera,6
+Bolivia,Odonata,8
+Bolivia,Orthoptera,67
+Bonaire,Blattodea,1
+Bonin Islands [=Ogasawara Islands],Orthoptera,1
+Borneo,Hymenoptera,4
+Borneo,Mantodea,2
+Borneo,Orthoptera,6
+Borneo,Phasmatodea,1
+Botswana,Phasmatodea,1
+Brazil (Brasil),Blattodea,43
+Brazil (Brasil),Coleoptera,16
+Brazil (Brasil),Dermaptera,2
+Brazil (Brasil),Diptera,8
+Brazil (Brasil),Hymenoptera,36
+Brazil (Brasil),Lepidoptera,10
+Brazil (Brasil),Mantodea,6
+Brazil (Brasil),Odonata,6
+Brazil (Brasil),Orthoptera,220
+Brazil (Brasil),Phasmatodea,5
+British West Indies,Orthoptera,1
+Brunei,Coleoptera,2
+Brunei,Orthoptera,2
+Cambodia,Coleoptera,1
+Cameroon,Orthoptera,1
+Cameroon [=Kamerun?],Blattodea,3
+Cameroon [=Kamerun?],Mantodea,1
+Cameroon [=Kamerun?],Orthoptera,18
+Canada,Coleoptera,11
+Canada,Diptera,22
+Canada,Hymenoptera,176
+Canada,Lepidoptera,21
+Canada,Odonata,1
+Canada,Orthoptera,18
+Caroline Islands,Orthoptera,1
+Central African Republic,Orthoptera,1
+Chile,Blattodea,3
+Chile,Coleoptera,2
+Chile,Orthoptera,3
+China,Chilopoda,1
+China,Coleoptera,2
+China,Mantodea,1
+China,Odonata,1
+China,Orthoptera,11
+Colombia,Blattodea,36
+Colombia,Coleoptera,6
+Colombia,Dermaptera,4
+Colombia,Diptera,14
+Colombia,Hemiptera,5
+Colombia,Lepidoptera,5
+Colombia,Mantodea,4
+Colombia,Orthoptera,113
+Colombia,Phasmatodea,17
+Comoro Islands,Mantodea,1
+Comoro Islands,Orthoptera,1
+Congo,Blattodea,2
+Congo,Coleoptera,1
+Congo,Dermaptera,1
+Congo,Diptera,1
+Congo,Mantodea,5
+Congo,Neuroptera,1
+Congo,Odonata,1
+Congo,Orthoptera,5
+Costa Rica,Acari,1
+Costa Rica,Acarina,2
+Costa Rica,Blattodea,11
+Costa Rica,Coleoptera,3
+Costa Rica,Dermaptera,3
+Costa Rica,Diptera,97
+Costa Rica,Hymenoptera,12
+Costa Rica,Lepidoptera,1
+Costa Rica,Mantodea,7
+Costa Rica,Neuroptera,1
+Costa Rica,Odonata,16
+Costa Rica,Opiliones,1
+Costa Rica,Orthoptera,109
+Costa Rica,Phasmatodea,6
+Costa Rica,Pseudoscorpiones,1
+Croatia,Diptera,1
+Cuba,Blattodea,18
+Cuba,Coleoptera,2
+Cuba,Dermaptera,1
+Cuba,Diptera,2
+Cuba,Hemiptera,4
+Cuba,Hymenoptera,161
+Cuba,Lepidoptera,76
+Cuba,Orthoptera,14
+Cuba,Phasmatodea,1
+CuraÃ§ao,Orthoptera,1
+Dominica,Phasmatodea,1
+Dominican Republic (San Domingo),Blattodea,2
+Dominican Republic (San Domingo),Hymenoptera,2
+Dominican Republic (San Domingo),Lepidoptera,2
+Dominican Republic (San Domingo),Orthoptera,22
+Ecuador,Blattodea,2
+Ecuador,Coleoptera,1
+Ecuador,Dermaptera,3
+Ecuador,Lepidoptera,15
+Ecuador,Mantodea,2
+Ecuador,Odonata,3
+Ecuador,Opiliones,6
+Ecuador,Orthoptera,57
+Ecuador,Phasmatodea,8
+Egypt,Diptera,3
+Egypt,Orthoptera,1
+Ethiopia,Dermaptera,1
+Ethiopia,Phasmatodea,1
+Fiji Islands,Dermaptera,1
+Fiji Islands,Orthoptera,2
+French Guiana,Blattodea,49
+French Guiana,Lepidoptera,1
+French Guiana,Mantodea,6
+French Guiana,Orthoptera,10
+French Guiana,Phasmatodea,1
+Gabon,Coleoptera,5
+Galapagos Islands,Orthoptera,13
+Germany (Deutschland),Diptera,4
+Ghana,Blattodea,1
+Greenland,Diptera,7
+Greenland,Hymenoptera,3
+Greenland,Lepidoptera,4
+Guatemala,Blattodea,2
+Guatemala,Diptera,2
+Guatemala,Hymenoptera,1
+Guatemala,Mantodea,1
+Guatemala,Odonata,1
+Guatemala,Orthoptera,13
+Guiana (British Guiana),Blattodea,19
+Guiana (British Guiana),Coleoptera,1
+Guiana (British Guiana),Diptera,6
+Guiana (British Guiana),Hymenoptera,2
+Guiana (British Guiana),Lepidoptera,4
+Guiana (British Guiana),Mantodea,1
+Guiana (British Guiana),Odonata,3
+Guiana (British Guiana),Orthoptera,11
+Guiana (British Guiana),Phasmatodea,1
+Guyana (Dutch Guiana),Diptera,4
+Guyana (Dutch Guiana),Lepidoptera,4
+Guyana (Dutch Guiana),Neuroptera,2
+Guyana (Dutch Guiana),Orthoptera,2
+Haiti (Hayti),Blattodea,4
+Haiti (Hayti),Hymenoptera,2
+Haiti (Hayti),Lepidoptera,3
+Haiti (Hayti),Odonata,1
+Haiti (Hayti),Orthoptera,7
+Haiti (Hayti),Phasmatodea,1
+Honduras,Blattodea,2
+Honduras,Diptera,7
+Honduras,Lepidoptera,2
+Honduras,Orthoptera,9
+India (Bharat),Chilopoda,1
+India (Bharat),Coleoptera,3
+India (Bharat),Dermaptera,10
+India (Bharat),Diptera,2
+India (Bharat),Orthoptera,67
+Indonesia,Coleoptera,2
+Indonesia,Dermaptera,2
+Indonesia,Orthoptera,6
+Jamaica,Blattodea,22
+Jamaica,Dermaptera,1
+Jamaica,Diplura,2
+Jamaica,Diptera,1
+Jamaica,Hymenoptera,10
+Jamaica,Lepidoptera,2
+Jamaica,Mantodea,1
+Jamaica,Odonata,1
+Jamaica,Orthoptera,8
+Jamaica,Phasmatodea,4
+Japan (Nippon),Coleoptera,1
+Japan (Nippon),Collembola,2
+Japan (Nippon),Diptera,1
+Japan (Nippon),Orthoptera,3
+Japan (Nippon),Phasmatodea,1
+Java,Blattodea,4
+Java,Coleoptera,2
+Java,Orthoptera,3
+Java,Phasmatodea,1
+Kenya,Dermaptera,1
+Kenya,Diptera,1
+Kenya,Hymenoptera,1
+Kenya,Mantodea,1
+Kenya,Orthoptera,19
+Kenya,Phasmatodea,3
+Korea (South),Orthoptera,3
+Laos,Coleoptera,1
+Liberia,Blattodea,1
+Liberia,Mantodea,1
+Liberia,Orthoptera,1
+Madagascar,Coleoptera,1
+Madagascar,Diptera,45
+Madagascar,Mantodea,1
+Madagascar,Orthoptera,27
+Madagascar,Phasmatodea,1
+Malawi,Orthoptera,13
+Malaysia,Blattodea,3
+Malaysia,Coleoptera,3
+Malaysia,Mantodea,1
+Malaysia,Orthoptera,32
+Mali,Orthoptera,1
+Marquesas Islands,Blattodea,2
+Martinique,Lepidoptera,1
+Mexico,Blattodea,18
+Mexico,Coleoptera,13
+Mexico,Dermaptera,3
+Mexico,Diptera,12
+Mexico,Hymenoptera,507
+Mexico,Lepidoptera,5
+Mexico,Mantodea,7
+Mexico,Odonata,14
+Mexico,Orthoptera,284
+Mexico,Phasmatodea,5
+Moluccas,Coleoptera,2
+Moluccas,Mantodea,1
+Moluccas,Orthoptera,10
+Moluccas,Phasmatodea,5
+Morocco,Orthoptera,1
+Morocco,Phasmatodea,1
+Mozambique,Blattodea,1
+Mozambique,Orthoptera,2
+Myanmar [=Burma],Coleoptera,1
+Myanmar [=Burma],Dermaptera,1
+Myanmar [=Burma],Diptera,1
+Myanmar [=Burma],Orthoptera,15
+Namibia,Orthoptera,1
+New Caledonia,Coleoptera,2
+New Caledonia,Orthoptera,25
+New Guinea,Blattodea,3
+New Guinea,Coleoptera,4
+New Guinea,Delete,1
+New Guinea,Diptera,6
+New Guinea,Mantodea,1
+New Guinea,Orthoptera,7
+New Hebrides,Lepidoptera,1
+New Zealand,Orthoptera,2
+Nicaragua,Blattodea,2
+Nicaragua,Diptera,1
+Nicaragua,Lepidoptera,1
+Nicaragua,Mantodea,1
+Nicaragua,Orthoptera,13
+Nicaragua,Phasmatodea,1
+Nigeria,Orthoptera,3
+North America,Hymenoptera,1
+Northeast Africa,Hymenoptera,2
+Palau [=Belau],Orthoptera,1
+Panama,Blattodea,22
+Panama,Coleoptera,1
+Panama,Dermaptera,2
+Panama,Diptera,4
+Panama,Hymenoptera,1
+Panama,Lepidoptera,2
+Panama,Mantodea,2
+Panama,Orthoptera,44
+Panama,Phasmatodea,4
+Paraguay,Blattodea,3
+Paraguay,Coleoptera,1
+Paraguay,Diptera,3
+Paraguay,Mantodea,4
+Paraguay,Odonata,1
+Paraguay,Orthoptera,21
+Paraguay,Phasmatodea,1
+Peru,Blattodea,10
+Peru,Dermaptera,2
+Peru,Diptera,13
+Peru,Ephemeroptera,2
+Peru,Lepidoptera,1
+Peru,Mantodea,1
+Peru,Odonata,1
+Peru,Orthoptera,92
+Peru,Phasmatodea,5
+Philippines,Coleoptera,3
+Philippines,Dermaptera,2
+Philippines,Diptera,1
+Philippines,Hymenoptera,1
+Philippines,Mantodea,4
+Philippines,Orthoptera,93
+Philippines,Phasmatodea,17
+Puerto Rico,Blattodea,4
+Puerto Rico,Hymenoptera,5
+Puerto Rico,Phasmatodea,5
+Senegal,Coleoptera,1
+Sierra Leone,Coleoptera,1
+Sierra Leone,Mantodea,1
+Singapore,Blattodea,2
+Singapore,Chilopoda,1
+Singapore,Mantodea,1
+Singapore,Orthoptera,9
+Somalia,Mantodea,1
+Somalia,Odonata,2
+Somalia,Orthoptera,1
+South Africa,Amblypygi,1
+South Africa,Blattodea,10
+South Africa,Hymenoptera,1
+South Africa,Mantodea,2
+South Africa,Orthoptera,27
+South Africa,Scorpionidea,1
+Sri Lanka (Ceylon),Coleoptera,1
+Sri Lanka (Ceylon),Diptera,1
+Sri Lanka (Ceylon),Orthoptera,21
+Sudan,Orthoptera,1
+Sumatra,Blattodea,13
+Sumatra,Coleoptera,11
+Sumatra,Dermaptera,4
+Sumatra,Orthoptera,2
+Surinam,Chilopoda,1
+Surinam,Odonata,2
+Surinam,Orthoptera,5
+Switzerland (Suisse),Orthoptera,1
+Syria,Hymenoptera,1
+Taiwan (Formosa),Diptera,11
+Tanzania,Coleoptera,2
+Tanzania,Orthoptera,23
+Thailand [=Siam],Orthoptera,6
+Tibet,Diptera,1
+Trinidad,Blattodea,7
+Trinidad,Chilopoda,1
+Trinidad,Hemiptera,1
+Trinidad,Hymenoptera,2
+Trinidad,Orthoptera,8
+Turkey,Diptera,1
+Uganda,Blattodea,1
+Uganda,Mantodea,1
+United States,Araneae,2
+United States,Blattodea,26
+United States,Chilopoda,5
+United States,Coleoptera,340
+United States,Collembola,27
+United States,Dermaptera,4
+United States,Diplopoda,11
+United States,Diplura,7
+United States,Diptera,536
+United States,Ephemeroptera,5
+United States,Geophilomorpha,7
+United States,Hemiptera,13
+United States,Hymenoptera,3151
+United States,Lepidoptera,389
+United States,Mantodea,11
+United States,Neuroptera,15
+United States,Odonata,23
+United States,Opiliones,3
+United States,Orthoptera,1168
+United States,Phasmatodea,18
+United States,Polydesmida,8
+United States,Psocoptera,16
+United States,Trichoptera,2
+Uruguay,Orthoptera,1
+Venezuela,Blattodea,1
+Venezuela,Chilopoda,1
+Venezuela,Coleoptera,1
+Venezuela,Diptera,2
+Venezuela,Hymenoptera,4
+Venezuela,Lepidoptera,1
+Venezuela,Mantodea,2
+Venezuela,Orthoptera,15
+Venezuela,Phasmatodea,1
+Vietnam,Diptera,2
+Vietnam,Mantodea,1
+Vietnam,Orthoptera,10
+Vietnam,Phasmatodea,1
+West Indies,Hymenoptera,1
+Zambia,Blattodea,1
+Zambia,Orthoptera,1
+Zimbabwe,Blattodea,1
