@@ -7,3 +7,12 @@ types_yearToOrdertoAuthor.csv - contains information about the linkages between 
 
 authYearAuthority.csv - contains the name of authors and the minimum and maximum (first, last) years in which they were active in order to filter authors upon rendering.
 
+# APP-1
+Maps the years to order to authorship relationship with the ability to browse various windows of the collection history as well as select by a specific taxon.
+
+# APP-2
+Maps the years to taxon to geography relationship with the ability to browse various windows of the collection history as well as select by a specific taxon.
+
+# APP-3
+Development in progress for a traditional network analysis diagram with clustering localities here.
+
