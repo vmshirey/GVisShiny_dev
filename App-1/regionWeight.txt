@@ -1,0 +1,114 @@
+country,weight,minYear,maxYear
+"""N. E. Africa""",5,1896,1896
+Andaman Islands,1,1879,1879
+Angola,8,1908,1987
+Argentina,68,1878,1965
+Australia,43,"",1977
+Austria (Ã–sterreich),5,1930,1932
+Bahamas,6,1905,1927
+Barbados,3,1905,1927
+Belize,2,1907,1932
+Bermuda,5,"",1932
+Bolivia,86,"",1997
+Bonaire,1,1930,1930
+Bonin Islands [=Ogasawara Islands],1,1988,1988
+Borneo,13,1887,1938
+Botswana,1,1933,1933
+Brazil (Brasil),352,"",[1928]1929
+British West Indies,1,1979,1979
+Brunei,4,1889,1920
+Cambodia,1,1864,1864
+Cameroon,1,1919,1919
+Cameroon [=Kamerun?],22,1910,1970
+Canada,249,1862,1984
+Caroline Islands,1,1945,1945
+Central African Republic,1,1975,1975
+Chile,8,"",1943
+China,16,"",1956
+Colombia,204,"",1987
+Comoro Islands,2,"",1959
+Congo,17,"",1953
+Costa Rica,271,"",1984
+Croatia,1,1930,1930
+Cuba,279,"",1998
+CuraÃ§ao,1,1937,1937
+Dominica,1,1938,1938
+Dominican Republic (San Domingo),28,1920,1998
+Ecuador,97,"",2003
+Egypt,4,1913,1946
+Ethiopia,2,"",1901
+Fiji Islands,3,1948,1988
+French Guiana,67,"",1933
+Gabon,5,"",1858
+Galapagos Islands,13,1893,1997
+Germany (Deutschland),4,1929,1932
+Ghana,1,1937,1937
+Greenland,14,1877,1930
+Guatemala,20,1871,1969
+Guiana (British Guiana),48,1899,1970
+Guyana (Dutch Guiana),12,"",1966
+Haiti (Hayti),18,"",1998
+Honduras,20,1909,1971
+India (Bharat),83,"",1969
+Indonesia,10,"",1950
+Jamaica,52,1758,2005
+Japan (Nippon),8,1898,1961
+Java,10,"",1988
+Kenya,26,1896,1988
+Korea (South),3,"",1971
+Laos,1,"",""
+Liberia,3,1937,1970
+Madagascar,75,1890,1989
+Malawi,13,1984,1988
+Malaysia,39,"",1939
+Mali,1,1984,1984
+Marquesas Islands,2,1933,1935
+Martinique,1,1920,1920
+Mexico,868,"",2003
+Moluccas,18,"",1926
+Morocco,2,"",1938
+Mozambique,3,1931,1988
+Myanmar [=Burma],18,1915,1975
+Namibia,1,1956,1956
+New Caledonia,27,1864,1987
+New Guinea,22,"",1979
+New Hebrides,1,1903,1903
+New Zealand,2,1869,1875
+Nicaragua,19,"",1933
+Nigeria,3,1875,1953
+North America,1,1888,1888
+Northeast Africa,2,1896,1896
+Orphaned Types,1,,
+Palau [=Belau],1,1988,1988
+Panama,82,"",1976
+Paraguay,34,"",1945
+Peru,127,"",1994
+Philippines,121,"",1988
+Puerto Rico,14,"",1951
+Senegal,1,1858,1858
+Sierra Leone,2,"",1949
+Singapore,13,"",1931
+Somalia,4,1899,1911
+South Africa,42,"",1987
+Sri Lanka (Ceylon),23,"",1943
+Sudan,1,1942,1942
+Sumatra,30,1886,1941
+Surinam,8,"",1964
+Switzerland (Suisse),1,1869,1869
+Syria,1,1882,1882
+Taiwan (Formosa),11,1925,1943
+Tanzania,25,1877,1988
+Thailand [=Siam],6,1941,1975
+Tibet,1,1934,1934
+Tipula,8,,
+Trinidad,19,"",1970
+Turkey,1,1934,1934
+Uganda,2,1912,1932[1933]
+United States,5786,"",MS ?
+Uruguay,1,1899,1899
+USA,1,1866,1866
+Venezuela,28,"",1976
+Vietnam,14,1906,1988
+West Indies,1,1899,1899
+Zambia,2,1922,1943
+Zimbabwe,1,1937,1937

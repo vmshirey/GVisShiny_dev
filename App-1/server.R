@@ -35,5 +35,11 @@ shinyServer(function(input, output) {
   output$view <- renderGvis({gvisSankey(selectedData(), options=list(height=1000, width=1000,
                                                                      sankey="{iterations: 0, tooltip: {isHTML: true}, node: {nodePadding: 5, interactivity: true, labelPadding: 12, label: {color: 'white', bold:true}}, 
                                                                      link: {colorMode:'source', color: {stroke: 'grey',
-                                                                     strokeWidth: .1}, colors: ['#CD0074','#FF5F00','#00A67C','9Fee00']}}"))})
+                                                                     strokeWidth: .1}, colors: ['#CD0074','#FF5F00','#00A67C','9Fee00']}}", gvis.listener.jscode="
+                                                                                                                                                                  var selectedItem = chart.getSelection();
+                                                                                                                                                                  console.debug(selectedItem[0].name);  
+                                                                                                                                                                  console.debug(selectedItem[0]);
+                                                                                                                                                                  if(selectedItem) { var selectedValue = selectedItem[0].name;
+                                                                                                                                                                                    ;}"
+                                                                                                                                                                  ))})
 })

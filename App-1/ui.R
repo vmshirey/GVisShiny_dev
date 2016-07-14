@@ -28,6 +28,6 @@ shinyUI(fluidPage(theme = "bootstrap.css",
                verbatimTextOutput("desc"), helpText( "described during: "),
                verbatimTextOutput("range"), helpText("showing total contributions to taxon by author."))
       ),
-      mainPanel(htmlOutput('view'))
+      mainPanel(htmlOutput('view'), tags$head(includeHTML("www/include.html")))
     )
 ))

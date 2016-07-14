@@ -1,0 +1,1281 @@
+state,weight,year
+Alabama,1,1871
+Alabama,10,1872
+Alabama,1,1873
+Alabama,1,1886
+Alabama,2,1901
+Alabama,1,1902
+Alabama,2,1906
+Alabama,1,1917
+Alabama,1,1920
+Alabama,1,1926
+Alabama,1,1954
+Alabama,1,1986
+Alabama,1,2005
+Alaska,2,1863
+Alaska,1,1872
+Alaska,1,1875
+Alaska,1,1877
+Alaska,1,1878
+Alaska,1,1878
+Alaska,1,1880
+Alaska,1,1902
+Alaska,1,1906
+Alaska,1,1914
+Alaska,1,1941
+Arizona,1,1866
+Arizona,2,1871
+Arizona,2,1875
+Arizona,3,1876
+Arizona,1,1878
+Arizona,1,1879
+Arizona,4,1881
+Arizona,1,1882
+Arizona,3,1885
+Arizona,7,1886
+Arizona,3,1890
+Arizona,1,1891
+Arizona,4,1892
+Arizona,1,1893
+Arizona,2,1894
+Arizona,4,1895
+Arizona,2,1896
+Arizona,7,1897
+Arizona,4,1898
+Arizona,16,1899
+Arizona,4,1900
+Arizona,3,1902
+Arizona,6,1903
+Arizona,14,1904
+Arizona,13,1905
+Arizona,3,1906
+Arizona,9,1907
+Arizona,7,1908
+Arizona,1,1910
+Arizona,1,1911
+Arizona,2,1912
+Arizona,1,1913
+Arizona,3,1914
+Arizona,4,1915
+Arizona,3,1917
+Arizona,2,1918
+Arizona,3,1919
+Arizona,1,1920
+Arizona,1,1921
+Arizona,2,1922
+Arizona,1,1923
+Arizona,1,1925
+Arizona,2,1927
+Arizona,1,1929
+Arizona,1,1931
+Arizona,3,1934
+Arizona,13,1935
+Arizona,5,1936
+Arizona,3,1937
+Arizona,3,1938
+Arizona,4,1939
+Arizona,2,1940
+Arizona,1,1941
+Arizona,4,1947
+Arizona,1,1948
+Arizona,1,1949
+Arizona,1,1950
+Arizona,2,1954
+Arizona,2,1958
+Arizona,1,1959
+Arizona,2,1961
+Arizona,1,1972
+Arkansas,1,1899
+Arkansas,1,1941
+Arkansas,1,1943
+Arkansas,1,1950
+Arkansas,1,1977
+California,1,1845
+California,2,1853
+California,1,1861
+California,4,1862
+California,1,1863
+California,9,1864
+California,8,1865
+California,1,1866
+California,1,1867
+California,3,1869
+California,2,1870
+California,1,1871
+California,4,1872
+California,1,1872
+California,10,1873
+California,1,1874
+California,1,1875
+California,5,1875
+California,26,1876
+California,9,1877
+California,51,1878
+California,39,1878
+California,10,1879
+California,18,1880
+California,10,1881
+California,2,1882
+California,2,1885
+California,4,1886
+California,3,1889
+California,10,1890
+California,8,1892
+California,2,1893
+California,3,1893
+California,6,1894
+California,7,1895
+California,1,1895
+California,11,1896
+California,21,1897
+California,1,1897
+California,23,1898
+California,31,1899
+California,15,1900
+California,10,1901
+California,8,1902
+California,5,1902
+California,15,1903
+California,6,1904
+California,12,1905
+California,2,1906
+California,6,1907
+California,2,1908
+California,10,1909
+California,2,1911
+California,3,1912
+California,1,1913
+California,3,1914
+California,3,1915
+California,7,1916
+California,23,1916
+California,19,1917
+California,17,1918
+California,19,1919
+California,13,1920
+California,2,1922
+California,1,1923
+California,1,1924
+California,1,1925
+California,6,1926
+California,1,1928
+California,2,1929
+California,1,1930
+California,1,1931
+California,4,1932
+California,3,1933
+California,8,1934
+California,3,1935
+California,4,1936
+California,1,1937
+California,3,1938
+California,15,1939
+California,20,1940
+California,6,1941
+California,1,1942
+California,10,1943
+California,1,1944
+California,2,1946
+California,1,1947
+California,3,1948
+California,13,1954
+California,1,1956
+California,1,1961
+California,1,1966
+California,10,1968
+California,2,1972
+California,1,1981
+California,2,1984
+Colorado,8,1863
+Colorado,85,1864
+Colorado,222,1865
+Colorado,7,1867
+Colorado,2,1868
+Colorado,2,1868
+Colorado,5,1869
+Colorado,2,1870
+Colorado,1,1871
+Colorado,4,1872
+Colorado,7,1875
+Colorado,12,1876
+Colorado,4,1877
+Colorado,91,1878
+Colorado,15,1879
+Colorado,28,1880
+Colorado,2,1881
+Colorado,1,1881
+Colorado,6,1885
+Colorado,5,1886
+Colorado,2,1889
+Colorado,1,1890
+Colorado,1,1891
+Colorado,9,1892
+Colorado,4,1893
+Colorado,4,1893
+Colorado,6,1894
+Colorado,12,1895
+Colorado,1,1895
+Colorado,6,1896
+Colorado,25,1897
+Colorado,9,1897
+Colorado,6,1898
+Colorado,10,1899
+Colorado,2,1900
+Colorado,1,1901
+Colorado,4,1902
+Colorado,4,1903
+Colorado,13,1904
+Colorado,1,1905
+Colorado,1,1906
+Colorado,1,1907
+Colorado,2,1908
+Colorado,1,1910
+Colorado,1,1911
+Colorado,1,1912
+Colorado,5,1914
+Colorado,1,1915
+Colorado,1,1916
+Colorado,1,1916
+Colorado,2,1917
+Colorado,7,1918
+Colorado,2,1919
+Colorado,1,1920
+Colorado,3,1921
+Colorado,1,1927
+Colorado,1,1929
+Colorado,1,1934
+Colorado,1,1935
+Colorado,1,1937
+Colorado,6,1939
+Colorado,2,1943
+Colorado,2,1944
+Colorado,1,1959
+Connecticut,2,1860
+Connecticut,1,1861
+Connecticut,2,1862
+Connecticut,7,1863
+Connecticut,16,1864
+Connecticut,5,1867
+Connecticut,13,1868
+Connecticut,4,1869
+Connecticut,2,1870
+Connecticut,1,1872
+Connecticut,2,1877
+Connecticut,4,1879
+Connecticut,14,1881
+Connecticut,1,1889
+Connecticut,13,1890
+Connecticut,2,1893
+Connecticut,1,1895
+Connecticut,1,1897
+Connecticut,1,1897
+Connecticut,28,1900
+Connecticut,1,1902
+Connecticut,1,1916
+Connecticut,5,1917
+Connecticut,1,1944
+Connecticut,1,1960
+Dakota,1,1893
+Dakota,1,1895
+Delaware,2,1863
+Delaware,34,1864
+Delaware,2,1865
+Delaware,4,1867
+Delaware,1,1868
+Delaware,5,1869
+Delaware,6,1870
+Delaware,6,1872
+District of Columbia,30,1859
+District of Columbia,1,1863
+District of Columbia,2,1866
+District of Columbia,1,1873
+District of Columbia,1,1884
+District of Columbia,1,1885
+District of Columbia,1,1889
+District of Columbia,1,1890
+District of Columbia,2,1891
+District of Columbia,1,1892
+District of Columbia,2,1894
+District of Columbia,2,1897
+District of Columbia,1,1913
+District of Columbia,1,1938
+Florida,2,1862
+Florida,1,1865
+Florida,2,1868
+Florida,1,1871
+Florida,1,1872
+Florida,5,1873
+Florida,2,1875
+Florida,2,1876
+Florida,14,1877
+Florida,3,1878
+Florida,3,1879
+Florida,2,1880
+Florida,1,1883
+Florida,1,1889
+Florida,2,1890
+Florida,2,1892
+Florida,7,1893
+Florida,1,1893
+Florida,4,1894
+Florida,2,1895
+Florida,5,1896
+Florida,7,1897
+Florida,1,1897
+Florida,3,1898
+Florida,5,1899
+Florida,1,1900
+Florida,4,1901
+Florida,5,1902
+Florida,1,1903
+Florida,4,1904
+Florida,9,1905
+Florida,5,1907
+Florida,1,1908
+Florida,5,1912
+Florida,1,1913
+Florida,4,1914
+Florida,2,1915
+Florida,3,1916
+Florida,3,1917
+Florida,6,1918
+Florida,1,1919
+Florida,1,1923
+Florida,1,1925
+Florida,4,1926
+Florida,2,1927
+Florida,2,1928
+Florida,2,1932
+Florida,2,1934
+Florida,6,1936
+Florida,2,1939
+Florida,1,1940
+Florida,2,1943
+Florida,1,1946
+Florida,1,1950
+Florida,1,1957
+Florida,2,1963
+Florida,1,1988
+Georgia,1,1865
+Georgia,10,1867
+Georgia,1,1868
+Georgia,1,1871
+Georgia,4,1873
+Georgia,13,1877
+Georgia,30,1878
+Georgia,3,1880
+Georgia,1,1881
+Georgia,1,1881
+Georgia,1,1885
+Georgia,1,1890
+Georgia,1,1892
+Georgia,1,1893
+Georgia,2,1894
+Georgia,2,1895
+Georgia,2,1896
+Georgia,2,1897
+Georgia,1,1898
+Georgia,1,1899
+Georgia,1,1902
+Georgia,4,1903
+Georgia,4,1904
+Georgia,1,1905
+Georgia,1,1906
+Georgia,2,1910
+Georgia,1,1911
+Georgia,1,1912
+Georgia,1,1915
+Georgia,7,1916
+Georgia,4,1917
+Georgia,2,1919
+Georgia,1,1923
+Georgia,1,1925
+Georgia,1,1928
+Georgia,1,1931
+Georgia,2,1936
+Georgia,1,1942
+Georgia,1,1958
+Georgia,2,2006
+Guam,1,1922
+Hawaii,1,1869
+Hawaii,2,1922
+Hawaii,1,1932
+Hawaii,1,1933
+Hawaii,2,1936
+Hawaii,207,1994
+Idaho,1,1860
+Idaho,1,1890
+Idaho,6,1897
+Idaho,8,1897
+Idaho,4,1898
+Idaho,2,1901
+Idaho,1,1903
+Idaho,1,1904
+Idaho,1,1909
+Idaho,1,1910
+Idaho,1,1911
+Idaho,1,1915
+Idaho,1,1917
+Idaho,2,1918
+Idaho,1,1920
+Idaho,1,1930
+Idaho,1,1933
+Idaho,4,1935
+Idaho,1,1936
+Idaho,3,1939
+Idaho,1,1945
+Idaho,1,1949
+Illinois,1,1859
+Illinois,1,1860
+Illinois,3,1862
+Illinois,3,1863
+Illinois,65,1864
+Illinois,16,1865
+Illinois,4,1866
+Illinois,37,1867
+Illinois,13,1868
+Illinois,1,1868
+Illinois,8,1869
+Illinois,13,1870
+Illinois,15,1872
+Illinois,4,1872
+Illinois,5,1873
+Illinois,3,1877
+Illinois,4,1878
+Illinois,1,1879
+Illinois,3,1880
+Illinois,1,1881
+Illinois,1,1887
+Illinois,2,1888
+Illinois,5,1889
+Illinois,7,1890
+Illinois,3,1892
+Illinois,4,1893
+Illinois,1,1893
+Illinois,4,1895
+Illinois,9,1896
+Illinois,14,1897
+Illinois,1,1897
+Illinois,9,1897
+Illinois,1,1898
+Illinois,2,1899
+Illinois,1,1906
+Illinois,1,1913
+Illinois,1,1914
+Illinois,2,1917
+Illinois,1,1920
+Illinois,1,1927
+Illinois,1,1942
+Indiana,1,1892
+Indiana,1,1893
+Indiana,2,1894
+Indiana,2,1895
+Indiana,1,1900
+Indiana,1,1903
+Indiana,1,1904
+Indiana,1,1911
+Iowa,2,1865
+Iowa,1,1875
+Iowa,2,1889
+Iowa,4,1890
+Iowa,4,1892
+Iowa,1,1893
+Iowa,1,1894
+Iowa,1,1897
+Iowa,2,1899
+Iowa,1,1939
+Iowa,1,1943
+Iowa,1,2002
+Kansas,2,1862
+Kansas,1,1863
+Kansas,2,1864
+Kansas,1,1865
+Kansas,1,1871
+Kansas,1,1873
+Kansas,1,1877
+Kansas,7,1878
+Kansas,2,1879
+Kansas,5,1885
+Kansas,1,1891
+Kansas,1,1896
+Kansas,1,1897
+Kansas,1,1897
+Kansas,3,1899
+Kansas,1,1905
+Kansas,1,1931
+Kansas,1,1946
+Kentucky,2,1861
+Kentucky,1,1872
+Kentucky,1,1886
+Kentucky,2,1894
+Kentucky,2,1897
+Kentucky,2,1942
+Kentucky,1,1950
+Louisiana,1,1864
+Louisiana,2,1865
+Louisiana,1,1866
+Louisiana,4,1867
+Louisiana,1,1870
+Louisiana,1,1871
+Louisiana,1,1873
+Louisiana,2,1878
+Louisiana,1,1879
+Louisiana,1,1891
+Louisiana,2,1893
+Louisiana,1,1894
+Louisiana,1,1895
+Louisiana,1,1897
+Louisiana,1,1898
+Louisiana,1,1917
+Louisiana,1,1925
+Louisiana,1,1939
+Louisiana,1,1962
+Maine,1,1859
+Maine,1,1860
+Maine,2,1862
+Maine,2,1863
+Maine,5,1864
+Maine,7,1867
+Maine,3,1868
+Maine,3,1869
+Maine,3,1870
+Maine,1,1872
+Maine,1,1878
+Maine,1,1880
+Maine,1,1885
+Maine,1,1890
+Maine,1,1901
+Maine,1,1904
+Maine,1,1917
+Maine,1,1919
+Maine,1,1930
+Maine,2,1934
+Maine,2,1936
+Maine,1,1941
+Maine,1,1957
+Maryland,4,1859
+Maryland,1,1860
+Maryland,1,1861
+Maryland,2,1862
+Maryland,1,1863
+Maryland,2,1864
+Maryland,1,1866
+Maryland,1,1869
+Maryland,1,1871
+Maryland,1,1875
+Maryland,1,1879
+Maryland,1,1892
+Maryland,1,1902
+Maryland,1,1918
+Maryland,2,1919
+Maryland,1,1922
+Maryland,1,1924
+Maryland,2,1938
+Maryland,1,1943
+Maryland,1,MS ?
+Massachusetts,1,1841
+Massachusetts,4,1860
+Massachusetts,15,1862
+Massachusetts,2,1863
+Massachusetts,6,1864
+Massachusetts,4,1865
+Massachusetts,16,1867
+Massachusetts,18,1868
+Massachusetts,6,1869
+Massachusetts,12,1870
+Massachusetts,1,1871
+Massachusetts,7,1872
+Massachusetts,3,1872
+Massachusetts,2,1873
+Massachusetts,1,1876
+Massachusetts,3,1877
+Massachusetts,2,1878
+Massachusetts,3,1879
+Massachusetts,4,1880
+Massachusetts,2,1881
+Massachusetts,1,1885
+Massachusetts,5,1890
+Massachusetts,1,1892
+Massachusetts,3,1894
+Massachusetts,1,1895
+Massachusetts,2,1896
+Massachusetts,2,1897
+Massachusetts,1,1900
+Massachusetts,1,1902
+Massachusetts,1,1905
+Massachusetts,1,1907
+Massachusetts,1,1908
+Massachusetts,1,1909
+Massachusetts,2,1915
+Massachusetts,2,1917
+Massachusetts,1,1941
+Massachusetts,1,1960
+Massachusetts,1,1963
+Michigan,1,1889
+Michigan,1,1894
+Michigan,5,1895
+Michigan,3,1896
+Michigan,8,1897
+Michigan,1,1897
+Michigan,16,1897
+Michigan,6,1898
+Michigan,1,1917
+Michigan,3,1918
+Michigan,2,1938
+Michigan,2,1940
+Michigan,2,1942
+Michigan,2,1971
+Michigan,1,2002
+Minnesota,2,1862
+Minnesota,1,1864
+Minnesota,1,1895
+Minnesota,1,1898
+Minnesota,2,1899
+Minnesota,1,1913
+Mississippi,1,1867
+Mississippi,1,1893
+Mississippi,1,1906
+Mississippi,1,1920
+Mississippi,1,1934
+Mississippi,1,1940
+Missouri,1,1863
+Missouri,1,1869
+Missouri,2,1872
+Missouri,1,1877
+Missouri,3,1880
+Missouri,1,1890
+Missouri,3,1899
+Missouri,1,1904
+Missouri,2,1935
+Missouri,2,1936
+Montana,1,1876
+Montana,1,1881
+Montana,4,1881
+Montana,1,1882
+Montana,14,1885
+Montana,1,1888
+Montana,2,1889
+Montana,1,1891
+Montana,2,1892
+Montana,4,1893
+Montana,2,1893
+Montana,5,1894
+Montana,4,1895
+Montana,3,1895
+Montana,8,1896
+Montana,6,1897
+Montana,3,1897
+Montana,2,1898
+Montana,1,1903
+Montana,1,1905
+Montana,1,1908
+Montana,1,1913
+Montana,1,1914
+Montana,1,1918
+Montana,2,1919
+Montana,1,1921
+Montana,1,1925
+Montana,1,1934
+Montana,1,1936
+Montana,1,1937
+Montana,1,1939
+Montana,1,1942
+Montana,1,1949
+Montana,1,1957
+Montana,1,1959
+Nebraska,4,1862
+Nebraska,1,1863
+Nebraska,4,1864
+Nebraska,7,1872
+Nebraska,1,1873
+Nebraska,2,1875
+Nebraska,3,1876
+Nebraska,1,1877
+Nebraska,1,1878
+Nebraska,4,1889
+Nebraska,8,1891
+Nebraska,2,1892
+Nebraska,1,1893
+Nebraska,6,1894
+Nebraska,1,1896
+Nebraska,5,1897
+Nebraska,1,1898
+Nebraska,1,1899
+Nebraska,1,1903
+Nebraska,1,1904
+Nebraska,1,1913
+Nebraska,1,1942
+Nebraska,1,1979
+Nevada,1,1866
+Nevada,2,1871
+Nevada,1,1873
+Nevada,7,1874
+Nevada,1,1876
+Nevada,6,1878
+Nevada,1,1878
+Nevada,68,1879
+Nevada,71,1880
+Nevada,3,1881
+Nevada,2,1881
+Nevada,1,1882
+Nevada,4,1884
+Nevada,1,1889
+Nevada,5,1892
+Nevada,4,1893
+Nevada,1,1893
+Nevada,2,1894
+Nevada,9,1895
+Nevada,7,1896
+Nevada,5,1897
+Nevada,3,1897
+Nevada,2,1898
+Nevada,5,1899
+Nevada,7,1903
+Nevada,2,1904
+Nevada,2,1905
+Nevada,1,1906
+Nevada,1,1908
+Nevada,4,1916
+Nevada,1,1917
+Nevada,2,1919
+Nevada,3,1920
+Nevada,2,1921
+Nevada,1,1923
+Nevada,1,1933
+Nevada,1,1935
+Nevada,1,1937
+Nevada,1,1939
+Nevada,1,1940
+Nevada,1,1958
+Nevada,1,1959
+Nevada,1,1972
+New Hampshire,1,1828
+New Hampshire,1,1861
+New Hampshire,1,1863
+New Hampshire,12,1877
+New Hampshire,10,1880
+New Hampshire,1,1890
+New Hampshire,1,1892
+New Hampshire,1,1893
+New Hampshire,1,1894
+New Hampshire,1,1895
+New Hampshire,3,1896
+New Hampshire,15,1897
+New Hampshire,22,1897
+New Hampshire,10,1898
+New Hampshire,1,1903
+New Hampshire,1,1913
+New Hampshire,2,1922
+New Jersey,3,1863
+New Jersey,17,1864
+New Jersey,1,1865
+New Jersey,2,1866
+New Jersey,4,1867
+New Jersey,6,1868
+New Jersey,1,1869
+New Jersey,5,1870
+New Jersey,7,1872
+New Jersey,1,1875
+New Jersey,3,1890
+New Jersey,1,1891
+New Jersey,2,1892
+New Jersey,1,1893
+New Jersey,1,1893
+New Jersey,1,1894
+New Jersey,1,1897
+New Jersey,3,1897
+New Jersey,2,1898
+New Jersey,2,1899
+New Jersey,2,1901
+New Jersey,5,1902
+New Jersey,5,1903
+New Jersey,9,1904
+New Jersey,5,1907
+New Jersey,1,1908
+New Jersey,2,1912
+New Jersey,5,1914
+New Jersey,4,1915
+New Jersey,1,1916
+New Jersey,3,1917
+New Jersey,2,1924
+New Jersey,1,1925
+New Jersey,2,1926
+New Jersey,1,1930
+New Jersey,2,1940
+New Jersey,3,1943
+New Jersey,1,1944
+New Jersey,4,1949
+New Jersey,3,1957
+New Jersey,1,1972
+New Jersey,1,1999
+New Mexico,1,1867
+New Mexico,17,1868
+New Mexico,2,1875
+New Mexico,1,1875
+New Mexico,13,1876
+New Mexico,1,1877
+New Mexico,1,1878
+New Mexico,2,1879
+New Mexico,1,1885
+New Mexico,1,1886
+New Mexico,6,1890
+New Mexico,1,1892
+New Mexico,2,1893
+New Mexico,1,1893
+New Mexico,11,1894
+New Mexico,25,1895
+New Mexico,10,1896
+New Mexico,14,1897
+New Mexico,3,1898
+New Mexico,9,1899
+New Mexico,4,1900
+New Mexico,2,1901
+New Mexico,37,1902
+New Mexico,1,1902
+New Mexico,75,1903
+New Mexico,24,1904
+New Mexico,2,1905
+New Mexico,5,1906
+New Mexico,6,1907
+New Mexico,1,1908
+New Mexico,3,1909
+New Mexico,3,1910
+New Mexico,5,1911
+New Mexico,2,1912
+New Mexico,5,1913
+New Mexico,5,1914
+New Mexico,7,1915
+New Mexico,1,1916
+New Mexico,2,1916
+New Mexico,3,1917
+New Mexico,18,1918
+New Mexico,8,1919
+New Mexico,1,1920
+New Mexico,3,1921
+New Mexico,6,1923
+New Mexico,1,1924
+New Mexico,2,1926
+New Mexico,1,1927
+New Mexico,1,1928
+New Mexico,1,1929
+New Mexico,4,1934
+New Mexico,4,1935
+New Mexico,3,1936
+New Mexico,2,1937
+New Mexico,2,1939
+New Mexico,3,1940
+New Mexico,1,1943
+New Mexico,1,1950
+New Mexico,1,1954
+New Mexico,7,1960
+New Mexico,4,1961
+New Mexico,1,1962
+New Mexico,4,1963
+New Mexico,4,1964
+New Mexico,3,1965
+New York,7,1859
+New York,1,1861
+New York,1,1862
+New York,2,1863
+New York,10,1864
+New York,4,1865
+New York,5,1866
+New York,7,1867
+New York,4,1868
+New York,1,1868
+New York,3,1869
+New York,3,1870
+New York,1,1872
+New York,2,1873
+New York,7,1877
+New York,11,1878
+New York,5,1880
+New York,1,1886
+New York,1,1888
+New York,2,1890
+New York,2,1893
+New York,1,1893
+New York,1,1894
+New York,3,1895
+New York,1,1896
+New York,3,1897
+New York,3,1897
+New York,2,1898
+New York,1,1903
+New York,2,1907
+New York,1,1914
+New York,3,1916
+New York,3,1917
+New York,2,1918
+New York,1,1924
+New York,1,1926
+New York,3,1933
+New York,1,1936
+New York,1,1937
+New York,1,1938
+New York,2,1939
+New York,3,1954
+New York,2,1957
+New York,1,1985
+North Carolina,2,1877
+North Carolina,2,1878
+North Carolina,1,1880
+North Carolina,1,1883
+North Carolina,1,1885
+North Carolina,1,1890
+North Carolina,1,1892
+North Carolina,1,1894
+North Carolina,1,1895
+North Carolina,2,1896
+North Carolina,2,1897
+North Carolina,1,1898
+North Carolina,2,1899
+North Carolina,1,1901
+North Carolina,3,1903
+North Carolina,5,1904
+North Carolina,1,1909
+North Carolina,4,1915
+North Carolina,2,1916
+North Carolina,2,1917
+North Carolina,4,1918
+North Carolina,1,1920
+North Carolina,1,1925
+North Carolina,2,1929
+North Carolina,1,1935
+North Carolina,2,1937
+North Carolina,4,1940
+North Carolina,2,1942
+North Carolina,1,1950
+North Carolina,1,2006
+North Dakota,1,1897
+Ohio,1,1863
+Ohio,1,1868
+Ohio,3,1869
+Ohio,1,1870
+Ohio,2,1881
+Ohio,4,1890
+Ohio,1,1900
+Ohio,1,1908
+Ohio,1,1935
+Oklahoma,1,1937
+Oklahoma,1,1954
+Oklahoma,1,1984
+Oregon,3,1873
+Oregon,1,1875
+Oregon,2,1878
+Oregon,1,1878
+Oregon,1,1880
+Oregon,1,1881
+Oregon,2,1891
+Oregon,1,1893
+Oregon,1,1893
+Oregon,2,1895
+Oregon,9,1896
+Oregon,2,1897
+Oregon,1,1897
+Oregon,6,1898
+Oregon,2,1899
+Oregon,1,1901
+Oregon,12,1903
+Oregon,27,1904
+Oregon,4,1905
+Oregon,1,1916
+Oregon,2,1919
+Oregon,3,1920
+Oregon,1,1931
+Oregon,1,1935
+Oregon,2,1936
+Oregon,1,1940
+Oregon,2,1962
+Oregon,1,1963
+Pennsylvania,1,1850
+Pennsylvania,1,1859
+Pennsylvania,1,1860
+Pennsylvania,1,1861
+Pennsylvania,7,1862
+Pennsylvania,6,1863
+Pennsylvania,48,1864
+Pennsylvania,3,1865
+Pennsylvania,2,1866
+Pennsylvania,11,1867
+Pennsylvania,2,1868
+Pennsylvania,1,1868
+Pennsylvania,16,1869
+Pennsylvania,9,1870
+Pennsylvania,1,1871
+Pennsylvania,14,1872
+Pennsylvania,1,1873
+Pennsylvania,2,1876
+Pennsylvania,1,1878
+Pennsylvania,1,1879
+Pennsylvania,3,1880
+Pennsylvania,1,1881
+Pennsylvania,7,1883
+Pennsylvania,3,1886
+Pennsylvania,2,1886
+Pennsylvania,1,1889
+Pennsylvania,3,1890
+Pennsylvania,1,1891
+Pennsylvania,2,1892
+Pennsylvania,5,1893
+Pennsylvania,1,1895
+Pennsylvania,1,1896
+Pennsylvania,1,1897
+Pennsylvania,1,1898
+Pennsylvania,2,1899
+Pennsylvania,1,1903
+Pennsylvania,4,1904
+Pennsylvania,1,1905
+Pennsylvania,1,1906
+Pennsylvania,4,1907
+Pennsylvania,1,1908
+Pennsylvania,2,1911
+Pennsylvania,3,1914
+Pennsylvania,2,1915
+Pennsylvania,6,1916
+Pennsylvania,1,1917
+Pennsylvania,8,1918
+Pennsylvania,3,1919
+Pennsylvania,7,1920
+Pennsylvania,24,1921
+Pennsylvania,1,1921
+Pennsylvania,1,1924
+Pennsylvania,6,1926
+Pennsylvania,1,1927
+Pennsylvania,1,1936
+Pennsylvania,2,1937
+Pennsylvania,1,1941
+Pennsylvania,1,1942
+Pennsylvania,17,1957
+Rhode Island,1,1866
+Rhode Island,1,2005
+South Carolina,1,1839
+South Carolina,1,1904
+South Carolina,1,1908
+South Carolina,1,1911
+South Carolina,1,1971
+South Carolina,1,1979
+South Carolina,1,1983
+South Carolina,2,2006
+South Dakota,2,1893
+South Dakota,1,1895
+South Dakota,1,1897
+South Dakota,8,1897
+South Dakota,2,1898
+South Dakota,2,1911
+South Dakota,1,1914
+South Dakota,1,1942
+Tennessee,2,1866
+Tennessee,1,1870
+Tennessee,1,1878
+Tennessee,1,1892
+Tennessee,2,1893
+Tennessee,1,1902
+Tennessee,1,1935
+Tennessee,2,1942
+Tennessee,1,1950
+Tennessee,1,1957
+Tennessee,1,2003
+Texas,4,1862
+Texas,6,1863
+Texas,2,1864
+Texas,1,1867
+Texas,2,1868
+Texas,8,1869
+Texas,7,1870
+Texas,25,1871
+Texas,229,1872
+Texas,1,1872
+Texas,2,1873
+Texas,26,1875
+Texas,9,1876
+Texas,4,1877
+Texas,32,1878
+Texas,8,1879
+Texas,7,1880
+Texas,3,1882
+Texas,2,1884
+Texas,5,1886
+Texas,1,1887
+Texas,4,1889
+Texas,5,1890
+Texas,1,1891
+Texas,6,1892
+Texas,3,1893
+Texas,1,1893
+Texas,6,1894
+Texas,11,1895
+Texas,5,1896
+Texas,13,1897
+Texas,5,1897
+Texas,3,1898
+Texas,17,1899
+Texas,5,1900
+Texas,1,1901
+Texas,6,1902
+Texas,2,1903
+Texas,5,1904
+Texas,3,1905
+Texas,7,1906
+Texas,7,1909
+Texas,1,1910
+Texas,1,1911
+Texas,10,1914
+Texas,6,1915
+Texas,1,1916
+Texas,7,1917
+Texas,5,1918
+Texas,7,1919
+Texas,4,1920
+Texas,2,1922
+Texas,1,1923
+Texas,1,1926
+Texas,1,1929
+Texas,1,1930
+Texas,4,1934
+Texas,5,1936
+Texas,2,1937
+Texas,2,1938
+Texas,1,1939
+Texas,3,1941
+Texas,1,1947
+Texas,3,1954
+Texas,2,1959
+Texas,1,1962
+Texas,1,1984
+Utah,1,1863
+Utah,3,1876
+Utah,6,1878
+Utah,1,1878
+Utah,1,1881
+Utah,1,1885
+Utah,1,1886
+Utah,9,1890
+Utah,1,1892
+Utah,3,1895
+Utah,2,1896
+Utah,5,1897
+Utah,1,1898
+Utah,5,1899
+Utah,2,1903
+Utah,1,1904
+Utah,2,1905
+Utah,1,1911
+Utah,2,1912
+Utah,1,1913
+Utah,1,1914
+Utah,2,1918
+Utah,3,1919
+Utah,4,1921
+Utah,1,1926
+Utah,1,1927
+Utah,1,1931
+Utah,1,1935
+Utah,1,1936
+Utah,2,1938
+Utah,2,1939
+Utah,1,1944
+Utah,4,1957
+Vermont,1,1878
+Vermont,1,1898
+Virginia,1,1859
+Virginia,6,1862
+Virginia,6,1863
+Virginia,32,1864
+Virginia,17,1865
+Virginia,4,1867
+Virginia,1,1868
+Virginia,1,1869
+Virginia,1,1872
+Virginia,1,1873
+Virginia,1,1877
+Virginia,1,1885
+Virginia,1,1892
+Virginia,1,1893
+Virginia,1,1897
+Virginia,1,1900
+Virginia,1,1902
+Virginia,3,1904
+Virginia,1,1907
+Virginia,1,1916
+Virginia,2,1917
+Virginia,1,1918
+Virginia,1,1920
+Virginia,2,1926
+Virginia,2,1935
+Virginia,1,1940
+Virginia,1,1941
+Virginia,1,1896
+Washington,1,1861
+Washington,1,1878
+Washington,1,1878
+Washington,6,1880
+Washington,4,1881
+Washington,6,1881
+Washington,1,1882
+Washington,4,1885
+Washington,1,1892
+Washington,2,1893
+Washington,2,1893
+Washington,1,1894
+Washington,10,1895
+Washington,1,1895
+Washington,4,1896
+Washington,9,1897
+Washington,9,1897
+Washington,3,1898
+Washington,3,1899
+Washington,1,1900
+Washington,1,1902
+Washington,2,1903
+Washington,13,1904
+Washington,1,1905
+Washington,1,1911
+Washington,1,1916
+Washington,2,1916
+Washington,2,1917
+Washington,1,1919
+Washington,1,1924
+Washington,1,1930
+Washington,2,1931
+Washington,1,1933
+Washington,4,1935
+Washington,1,1936
+Washington,1,1939
+Washington,4,1940
+Washington,1,1941
+Washington,2,1942
+Washington,1,1944
+Washington,1,1945
+Washington,1,1949
+Washington,1,1952
+Washington,1,1954
+Washington,1,1956
+Washington,1,1972
+West Virginia,2,1864
+West Virginia,26,1867
+West Virginia,6,1868
+West Virginia,2,1869
+West Virginia,7,1870
+West Virginia,2,1872
+West Virginia,1,1877
+West Virginia,1,1878
+West Virginia,1,1938
+Wisconsin,1,1897
+Wisconsin,5,1903
+Wisconsin,4,1904
+Wisconsin,1,1917
+Wisconsin,1,1918
+Wyoming,1,1850
+Wyoming,1,1878
+Wyoming,2,1889
+Wyoming,1,1892
+Wyoming,1,1896
+Wyoming,1,1900
+Wyoming,1,1901
+Wyoming,1,1902
+Wyoming,2,1906
+Wyoming,1,1911
+Wyoming,1,1928
+Wyoming,1,1934
+Wyoming,1,1954
