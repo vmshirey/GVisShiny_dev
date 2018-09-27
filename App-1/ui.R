@@ -1,15 +1,15 @@
 library(shiny)
 library(googleVis)
 
-shinyUI(fluidPage(theme = "bootstrap.css", 
-  titlePanel("ANSP Entomology Type Sankey Visualization Test"),
+shinyUI(fluidPage( 
+  titlePanel("ANSP Entomology Type Sankey Visualization"),
   sidebarLayout(
     sidebarPanel(
       helpText("Explore temporal trends within the ANSP 
                Entomology Department Type Collection."),
       sliderInput("range", 
                   label = h3("Year(s) of interest:"),
-                  min = 1800, max = 2016, value = c(0, 20), sep = ""),
+                  min = 1800, max = 2016, value = c(1800, 2016), sep = ""),
       checkboxGroupInput("taxon", label = h3("Order(s) of interest:"), 
                          choices = list("Coleoptera" = 'Coleoptera', 
                                         "Diptera" = 'Diptera', "Hemiptera" = 'Hemiptera',
@@ -25,9 +25,10 @@ shinyUI(fluidPage(theme = "bootstrap.css",
                          selected = c("Dermaptera", "Phasmatodea"), inline=TRUE),
       hr(),
       fluidRow(helpText("Viewing the order(s): "),
-               verbatimTextOutput("desc"), helpText( "described during: "),
-               verbatimTextOutput("range"), helpText("showing total contributions to taxon by author."))
+               verbatimTextOutput("desc"), helpText( "collected during: "),
+               verbatimTextOutput("range"), helpText("showing total contributions to taxon by collector."))
       ),
-      mainPanel(htmlOutput('view'), tags$head(includeHTML("www/include.html")))
+      mainPanel(tags$br(),
+                plotOutput('view'))
     )
 ))
